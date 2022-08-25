@@ -172,6 +172,8 @@
 <a name="22"/>
 
 ## 22.Human Action Recognition(人体动作识别与检测)
+* 动作识别
+  * [Modality Mixer for Multi-modal Action Recognition](https://arxiv.org/abs/2208.11314)
 
 <a name="21"/>
 
@@ -221,6 +223,8 @@
   * [FaceOff: A Video-to-Video Face Swapping System](https://arxiv.org/abs/2208.09788)
 * 读唇术
   * [Towards MOOCs for Lip Reading: Using Synthetic Talking Heads to Train Humans in Lipreading at Scale](https://arxiv.org/abs/2208.09796)
+* 人脸恢复
+  * [AT-DDPM: Restoring Faces degraded by Atmospheric Turbulence using Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2208.11284)
 
 <a name="10"/>
 
