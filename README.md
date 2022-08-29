@@ -202,6 +202,8 @@
 <a name="15"/>
 
 ## 15.Image Synthesis(图像合成)
+* 图像生成
+  * [Adaptively-Realistic Image Generation from Stroke and Sketch with Diffusion Model](https://arxiv.org/abs/2208.12675)<br>:star:[code](https://github.com/cyj407/DiSS):house:[project](https://cyj407.github.io/DiSS/)
 
 <a name="14"/>
 
