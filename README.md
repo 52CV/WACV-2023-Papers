@@ -147,6 +147,8 @@
 <a name="28"/>
 
 ## 28.Pose Estimation(姿态估计)
+* 多人姿态估计
+  * [SoMoFormer: Multi-Person Pose Forecasting with Transformers](https://arxiv.org/abs/2208.14023)<br>:house:[project](https://somof.stanford.edu/result/217/)
 
 <a name="27"/>
 
@@ -208,6 +210,8 @@
 <a name="14"/>
 
 ## 14.Un\Self\Semi-Supervised Learning(无\自\半监督学习)
+* 自监督
+  * [Self-Supervised Pyramid Representation Learning for Multi-Label Visual Analysis and Beyond](https://arxiv.org/abs/2208.14439)<br>:star:[code](https://github.com/WesleyHsieh0806/SS-PRL)
 
 <a name="13"/>
 
