@@ -196,6 +196,8 @@
 <a name="17"/>
 
 ## 17.OCR(文本检测)
+* 文本识别
+  * [Seq-UPS: Sequential Uncertainty-aware Pseudo-label Selection for Semi-Supervised Text Recognition](https://arxiv.org/abs/2209.00641)
 
 <a name="16"/>
 
