@@ -143,6 +143,8 @@
 <a name="29"/>
 
 ## 29.Image Classification(图像分类)
+* 长尾识别
+  * [Difficulty-Net: Learning to Predict Difficulty for Long-Tailed Recognition](https://arxiv.org/abs/2209.02960)
 
 <a name="28"/>
 
