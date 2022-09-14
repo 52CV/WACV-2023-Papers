@@ -36,6 +36,9 @@
 |[1.其它](#1)|[2.Medical Image(医学影像)](#2)|[3.3D(三维视觉)](#3)|[4.GAN(生成对抗网络)](#4)|
 
 
+## 56.Vision-Language(视觉语言)
+* [VL-Taboo: An Analysis of Attribute-based Zero-shot Capabilities of Vision-Language Models](https://arxiv.org/abs/2209.06103)<br>:star:[code](https://github.com/felixVogel02/VL-Taboo/tree/main)
+
 <a name="55"/>
 
 ## 55.Object Counting(物体计数)
