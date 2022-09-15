@@ -154,6 +154,8 @@
 ## 28.Pose Estimation(姿态估计)
 * 多人姿态估计
   * [SoMoFormer: Multi-Person Pose Forecasting with Transformers](https://arxiv.org/abs/2208.14023)<br>:house:[project](https://somof.stanford.edu/result/217/)
+* 三维人体
+  * [Placing Human Animations into 3D Scenes by Learning Interaction- and Geometry-Driven Keyframes](https://arxiv.org/abs/2209.06314)
 
 <a name="27"/>
 
