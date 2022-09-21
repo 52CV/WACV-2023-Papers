@@ -134,6 +134,7 @@
 <a name="32"/>
 
 ## 32.Continual Learning(持续学习)
+* [Continual Learning with Dependency Preserving Hypernetworks](https://arxiv.org/abs/2209.07712)
 
 <a name="31"/>
 
@@ -213,6 +214,7 @@
 <a name="15"/>
 
 ## 15.Image Synthesis(图像合成)
+* [One-Shot Synthesis of Images and Segmentation Masks](https://arxiv.org/abs/2209.07547)<br>:star:[code](https://github.com/boschresearch/one-shot-synthesis)
 * 图像生成
   * [Adaptively-Realistic Image Generation from Stroke and Sketch with Diffusion Model](https://arxiv.org/abs/2208.12675)<br>:star:[code](https://github.com/cyj407/DiSS):house:[project](https://cyj407.github.io/DiSS/)
 
@@ -246,7 +248,7 @@
 <a name="10"/>
 
 ## 10.Adversarial Learning(对抗学习)
-
+* [Leveraging Local Patch Differences in Multi-Object Scenes for Generative Adversarial Attacks](https://arxiv.org/abs/2209.09883)
 
 <a name="9"/>
 
