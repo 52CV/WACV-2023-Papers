@@ -244,6 +244,8 @@
   * [Towards MOOCs for Lip Reading: Using Synthetic Talking Heads to Train Humans in Lipreading at Scale](https://arxiv.org/abs/2208.09796)
 * 人脸恢复
   * [AT-DDPM: Restoring Faces degraded by Atmospheric Turbulence using Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2208.11284)
+* 人脸表情识别
+  * [Uncertainty-aware Label Distribution Learning for Facial Expression Recognition](https://arxiv.org/abs/2209.10448)<br>:star:[code](https://github.com/minhnhatvt/label-distribution-learning-fer-tf)
 
 <a name="10"/>
 
