@@ -122,6 +122,7 @@
 <a name="35"/>
 
 ## 35.VQA(视觉问答)
+* [DRAMA: Joint Risk Localization and Captioning in Driving](https://arxiv.org/abs/2209.10767)
 
 <a name="34"/>
 
@@ -297,3 +298,4 @@
 
 ## 1.其它
 * [Instance-Dependent Noisy Label Learning via Graphical Modelling](https://arxiv.org/abs/2209.00906)
+* [Color Recommendation for Vector Graphic Documents based on Multi-Palette Representation](https://arxiv.org/abs/2209.10820)
