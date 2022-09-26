@@ -299,3 +299,4 @@
 ## 1.其它
 * [Instance-Dependent Noisy Label Learning via Graphical Modelling](https://arxiv.org/abs/2209.00906)
 * [Color Recommendation for Vector Graphic Documents based on Multi-Palette Representation](https://arxiv.org/abs/2209.10820)
+* [TeST: Test-time Self-Training under Distribution Shift](https://arxiv.org/abs/2209.11459)
