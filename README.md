@@ -300,3 +300,4 @@
 * [Instance-Dependent Noisy Label Learning via Graphical Modelling](https://arxiv.org/abs/2209.00906)
 * [Color Recommendation for Vector Graphic Documents based on Multi-Palette Representation](https://arxiv.org/abs/2209.10820)
 * [TeST: Test-time Self-Training under Distribution Shift](https://arxiv.org/abs/2209.11459)
+* [Simultaneous Acquisition of High Quality RGB Image and Polarization Information using a Sparse Polarization Sensor](https://arxiv.org/abs/2209.13106)<br>:star:[code](https://github.com/sony/polar-densification)
