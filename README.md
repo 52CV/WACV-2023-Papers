@@ -36,6 +36,9 @@
 |[1.其它](#1)|[2.Medical Image(医学影像)](#2)|[3.3D(三维视觉)](#3)|[4.GAN(生成对抗网络)](#4)|
 
 
+## 57.Federated Learning(联邦学习)
+* [Learning Across Domains and Devices: Style-Driven Source-Free Domain Adaptation in Clustered Federated Learning](https://arxiv.org/abs/2210.02326)<br>:star:[code](https://github.com/Erosinho13/LADD)
+
 ## 56.Vision-Language(视觉语言)
 * [VL-Taboo: An Analysis of Attribute-based Zero-shot Capabilities of Vision-Language Models](https://arxiv.org/abs/2209.06103)<br>:star:[code](https://github.com/felixVogel02/VL-Taboo/tree/main)
 
@@ -140,6 +143,8 @@
 <a name="31"/>
 
 ## 31.Deepfake Detection(假象检测)
+* 图像伪造
+  * [CFL-Net: Image Forgery Localization Using Contrastive Learning](https://arxiv.org/abs/2210.02182)<br>:star:[code](https://github.com/niloy193/CFLNet)
 
 <a name="30"/>
 
@@ -239,6 +244,8 @@
 <a name="11"/>
 
 ## 11.Face(人脸)
+* 人脸识别
+  * [DigiFace-1M: 1 Million Digital Face Images for Face Recognition](https://arxiv.org/abs/2210.02579)<br>:star:[code](https://github.com/microsoft/DigiFace1M)
 * 人脸交换
   * [FaceOff: A Video-to-Video Face Swapping System](https://arxiv.org/abs/2208.09788)
 * 读唇术
@@ -247,6 +254,8 @@
   * [AT-DDPM: Restoring Faces degraded by Atmospheric Turbulence using Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2208.11284)
 * 人脸表情识别
   * [Uncertainty-aware Label Distribution Learning for Facial Expression Recognition](https://arxiv.org/abs/2209.10448)<br>:star:[code](https://github.com/minhnhatvt/label-distribution-learning-fer-tf)
+* 人脸重现
+  * [Audio-Visual Face Reenactment](https://arxiv.org/abs/2210.02755)<br>:house:[project](http://cvit.iiit.ac.in/research/projects/cvit-projects/avfr)
 
 <a name="10"/>
 
