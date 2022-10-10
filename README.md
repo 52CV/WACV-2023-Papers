@@ -256,6 +256,8 @@
   * [Uncertainty-aware Label Distribution Learning for Facial Expression Recognition](https://arxiv.org/abs/2209.10448)<br>:star:[code](https://github.com/minhnhatvt/label-distribution-learning-fer-tf)
 * 人脸重现
   * [Audio-Visual Face Reenactment](https://arxiv.org/abs/2210.02755)<br>:house:[project](http://cvit.iiit.ac.in/research/projects/cvit-projects/avfr)
+* 基于表情的脸部皱纹合成
+  * [Mesh-Tension Driven Expression-Based Wrinkles for Synthetic Faces](https://arxiv.org/abs/2210.03529)
 
 <a name="10"/>
 
