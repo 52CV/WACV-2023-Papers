@@ -36,6 +36,11 @@
 |[1.其它](#1)|[2.Medical Image(医学影像)](#2)|[3.3D(三维视觉)](#3)|[4.GAN(生成对抗网络)](#4)|
 
 
+## Sound
+* Audio Visual Event Localization视听事件定位
+  * [AVE-CLIP: AudioCLIP-based Multi-window Temporal Transformer for Audio Visual Event Localization](https://arxiv.org/abs/2210.05060)
+
+
 ## 57.Federated Learning(联邦学习)
 * [Learning Across Domains and Devices: Style-Driven Source-Free Domain Adaptation in Clustered Federated Learning](https://arxiv.org/abs/2210.02326)<br>:star:[code](https://github.com/Erosinho13/LADD)
 
@@ -49,6 +54,7 @@
 <a name="54"/>
 
 ## 54.Optical Flow(光流)
+* [Weakly-Supervised Optical Flow Estimation for Time-of-Flight](https://arxiv.org/abs/2210.05298)
 
 <a name="53"/>
 
@@ -222,6 +228,7 @@
 
 ## 15.Image Synthesis(图像合成)
 * [One-Shot Synthesis of Images and Segmentation Masks](https://arxiv.org/abs/2209.07547)<br>:star:[code](https://github.com/boschresearch/one-shot-synthesis)
+* [Style-Guided Inference of Transformer for High-resolution Image Synthesis](https://arxiv.org/abs/2210.05533)
 * 图像生成
   * [Adaptively-Realistic Image Generation from Stroke and Sketch with Diffusion Model](https://arxiv.org/abs/2208.12675)<br>:star:[code](https://github.com/cyj407/DiSS):house:[project](https://cyj407.github.io/DiSS/)
 
@@ -273,7 +280,8 @@
 <a name="8"/>
 
 ## 8.Image Processing(图像处理)
-
+* 图像恢复
+  * [Large-to-small Image Resolution Asymmetry in Deep Metric Learning](https://arxiv.org/abs/2210.05463)<br>:star:[code](https://github.com/pavelsuma/raml)
 
 <a name="7"/>
 
@@ -283,7 +291,9 @@
 <a name="6"/>
 
 ## 6.Video(视频相关)
-
+* 视频理解
+  * 通用事件边界检测
+    * [Motion Aware Self-Supervision for Generic Event Boundary Detection](https://arxiv.org/abs/2210.05574)<br>:star:[code](https://github.com/rayush7/motion_ssl_gebd)
 
 <a name="5"/>
 
@@ -299,7 +309,8 @@
 <a name="3"/>
 
 ## 3.3D(三维视觉)
-
+* 深度估计
+  * [Frequency-Aware Self-Supervised Monocular Depth Estimation](https://arxiv.org/abs/2210.05479)<br>:star:[code](https://github.com/xingyuuchen/freq-aware-depth)
 
 <a name="2"/>
 
@@ -313,3 +324,4 @@
 * [Color Recommendation for Vector Graphic Documents based on Multi-Palette Representation](https://arxiv.org/abs/2209.10820)
 * [TeST: Test-time Self-Training under Distribution Shift](https://arxiv.org/abs/2209.11459)
 * [Simultaneous Acquisition of High Quality RGB Image and Polarization Information using a Sparse Polarization Sensor](https://arxiv.org/abs/2209.13106)<br>:star:[code](https://github.com/sony/polar-densification)
+* [Enabling ISP-less Low-Power Computer Vision](https://arxiv.org/abs/2210.05451)
