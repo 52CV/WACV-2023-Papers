@@ -40,6 +40,9 @@
 * Audio Visual Event Localization视听事件定位
   * [AVE-CLIP: AudioCLIP-based Multi-window Temporal Transformer for Audio Visual Event Localization](https://arxiv.org/abs/2210.05060)
 
+## Style Transfer
+* [Line Search-Based Feature Transformation for Fast, Stable, and Tunable Content-Style Control in Photorealistic Style Transfer](https://arxiv.org/abs/2210.05996)<br>:star:[code](https://github.com/chiutaiyin/LS-FT)
+
 
 ## 57.Federated Learning(联邦学习)
 * [Learning Across Domains and Devices: Style-Driven Source-Free Domain Adaptation in Clustered Federated Learning](https://arxiv.org/abs/2210.02326)<br>:star:[code](https://github.com/Erosinho13/LADD)
@@ -169,6 +172,7 @@
   * [SoMoFormer: Multi-Person Pose Forecasting with Transformers](https://arxiv.org/abs/2208.14023)<br>:house:[project](https://somof.stanford.edu/result/217/)
 * 三维人体
   * [Placing Human Animations into 3D Scenes by Learning Interaction- and Geometry-Driven Keyframes](https://arxiv.org/abs/2209.06314)
+  * [Uplift and Upsample: Efficient 3D Human Pose Estimation with Uplifting Transformers](https://arxiv.org/abs/2210.06110)<br>:star:[code](https://github.com/goldbricklemon/uplift-upsample-3dhpe)
 
 <a name="27"/>
 
@@ -298,14 +302,19 @@
 <a name="5"/>
 
 ## 5.Object Detection(目标检测)
+* VOD
+  * [BoxMask: Revisiting Bounding Box Supervision for Video Object Detection](https://arxiv.org/abs/2210.06008)
 * OOD
   * [Out-of-distribution Detection via Frequency-regularized Generative Models](https://arxiv.org/abs/2208.09083)<br>:star:[code](https://github.com/mu-cai/FRL)
+* 伪装目标检测
+  * [MFFN: Multi-view Feature Fusion Network for Camouflaged Object Detection](https://arxiv.org/abs/2210.06361)<br>:star:[code](https://github.com/dwardzheng/MFFN_COD)
 
 <a name="4"/>
 
 ## 4.GAN(生成对抗网络)
-
-
+* fashion attribute editing(时尚属性编辑)
+  * [Leveraging Off-the-shelf Diffusion Model for Multi-attribute Fashion Image Manipulation](https://arxiv.org/abs/2210.05872)
+  
 <a name="3"/>
 
 ## 3.3D(三维视觉)
@@ -325,3 +334,4 @@
 * [TeST: Test-time Self-Training under Distribution Shift](https://arxiv.org/abs/2209.11459)
 * [Simultaneous Acquisition of High Quality RGB Image and Polarization Information using a Sparse Polarization Sensor](https://arxiv.org/abs/2209.13106)<br>:star:[code](https://github.com/sony/polar-densification)
 * [Enabling ISP-less Low-Power Computer Vision](https://arxiv.org/abs/2210.05451)
+* [AdaNorm: Adaptive Gradient Norm Correction based Optimizer for CNNs](https://arxiv.org/abs/2210.06364)<br>:star:[code](https://github.com/shivram1987/AdaNorm)
