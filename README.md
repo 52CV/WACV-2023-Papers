@@ -164,7 +164,9 @@
 ## 29.Image Classification(图像分类)
 * 长尾识别
   * [Difficulty-Net: Learning to Predict Difficulty for Long-Tailed Recognition](https://arxiv.org/abs/2209.02960)
-
+* pen-Set Classification
+  * [Large-Scale Open-Set Classification Protocols for ImageNet](https://arxiv.org/abs/2210.06789)
+  
 <a name="28"/>
 
 ## 28.Pose Estimation(姿态估计)
@@ -247,11 +249,16 @@
 ## 13.Image Segmentation(图像分割)
 * VOS
   * [Unsupervised Video Object Segmentation via Prototype Memory Network](https://arxiv.org/abs/2209.03712)
+* 语义分割
+  * [Attribution-aware Weight Transfer: A Warm-Start Initialization for Class-Incremental Semantic Segmentation](https://arxiv.org/abs/2210.07207)<br>:star:[code](https://github.com/dfki-av/AWT-for-CISS)
+* BEV segmentation
+  * [X-Align: Cross-Modal Cross-View Alignment for Bird's-Eye-View Segmentation](https://arxiv.org/abs/2210.06778)<br>:star:[code](https://github.com/robot-learning-freiburg/PanopticBEV)
 
 <a name="12"/>
 
 ## 12.One\Few-Shot Learning or Domain Adaptation\Generalization\Shift(单\小样本学习 or 域适应\泛化\偏移)
-
+* 域适应
+  * [Reducing Annotation Effort by Identifying and Labeling Contextually Diverse Classes for Semantic Segmentation Under Domain Shift](https://arxiv.org/abs/2210.06749)<br>:star:[code](https://github.com/sharat29ag/contextual_class)
 
 <a name="11"/>
 
@@ -312,6 +319,7 @@
 <a name="4"/>
 
 ## 4.GAN(生成对抗网络)
+* [HoechstGAN: Virtual Lymphocyte Staining Using Generative Adversarial Networks](https://arxiv.org/abs/2210.06909)
 * fashion attribute editing(时尚属性编辑)
   * [Leveraging Off-the-shelf Diffusion Model for Multi-attribute Fashion Image Manipulation](https://arxiv.org/abs/2210.05872)
   
@@ -324,6 +332,8 @@
 <a name="2"/>
 
 ## 2.Medical Image(医学影像)
+* 胸部X光分类
+  * [Probabilistic Integration of Object Level Annotations in Chest X-ray Classification](https://arxiv.org/abs/2210.06980)
 
 
 <a name="1"/>
@@ -335,3 +345,4 @@
 * [Simultaneous Acquisition of High Quality RGB Image and Polarization Information using a Sparse Polarization Sensor](https://arxiv.org/abs/2209.13106)<br>:star:[code](https://github.com/sony/polar-densification)
 * [Enabling ISP-less Low-Power Computer Vision](https://arxiv.org/abs/2210.05451)
 * [AdaNorm: Adaptive Gradient Norm Correction based Optimizer for CNNs](https://arxiv.org/abs/2210.06364)<br>:star:[code](https://github.com/shivram1987/AdaNorm)
+* [Composite Learning for Robust and Effective Dense Predictions](https://arxiv.org/abs/2210.07239)
