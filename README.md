@@ -114,6 +114,7 @@
 <a name="40"/>
 
 ## 40.Anomaly Detection(异常检测)
+* [Asymmetric Student-Teacher Networks for Industrial Anomaly Detection](https://arxiv.org/abs/2210.07829)<br>:star:[code](https://github.com/marco-rudolph/ast)
 
 <a name="39"/>
 
@@ -202,6 +203,7 @@
 ## 22.Human Action Recognition(人体动作识别与检测)
 * 动作识别
   * [Modality Mixer for Multi-modal Action Recognition](https://arxiv.org/abs/2208.11314)
+  * [STAR-Transformer: A Spatio-temporal Cross Attention Transformer for Human Action Recognition](https://arxiv.org/abs/2210.07503)
 
 <a name="21"/>
 
@@ -253,6 +255,8 @@
   * [Attribution-aware Weight Transfer: A Warm-Start Initialization for Class-Incremental Semantic Segmentation](https://arxiv.org/abs/2210.07207)<br>:star:[code](https://github.com/dfki-av/AWT-for-CISS)
 * BEV segmentation
   * [X-Align: Cross-Modal Cross-View Alignment for Bird's-Eye-View Segmentation](https://arxiv.org/abs/2210.06778)<br>:star:[code](https://github.com/robot-learning-freiburg/PanopticBEV)
+* 全景分割
+  * [MonoDVPS: A Self-Supervised Monocular Depth Estimation Approach to Depth-aware Video Panoptic Segmentation](https://arxiv.org/abs/2210.07577)
 
 <a name="12"/>
 
@@ -328,13 +332,16 @@
 ## 3.3D(三维视觉)
 * 深度估计
   * [Frequency-Aware Self-Supervised Monocular Depth Estimation](https://arxiv.org/abs/2210.05479)<br>:star:[code](https://github.com/xingyuuchen/freq-aware-depth)
+* MVS
+  * [Multi-View Photometric Stereo Revisited](https://arxiv.org/abs/2210.07670)
 
 <a name="2"/>
 
 ## 2.Medical Image(医学影像)
 * 胸部X光分类
   * [Probabilistic Integration of Object Level Annotations in Chest X-ray Classification](https://arxiv.org/abs/2210.06980)
-
+* CT图像融合
+  * [Self-Supervised 2D/3D Registration for X-Ray to CT Image Fusion](https://arxiv.org/abs/2210.07611)
 
 <a name="1"/>
 
@@ -346,3 +353,4 @@
 * [Enabling ISP-less Low-Power Computer Vision](https://arxiv.org/abs/2210.05451)
 * [AdaNorm: Adaptive Gradient Norm Correction based Optimizer for CNNs](https://arxiv.org/abs/2210.06364)<br>:star:[code](https://github.com/shivram1987/AdaNorm)
 * [Composite Learning for Robust and Effective Dense Predictions](https://arxiv.org/abs/2210.07239)
+* [SAILOR: Scaling Anchors via Insights into Latent Object](https://arxiv.org/abs/2210.07811)<br>:star:[code](https://github.com/malicd/sailor)
