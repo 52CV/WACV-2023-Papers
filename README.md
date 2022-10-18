@@ -127,6 +127,8 @@
 <a name="37"/>
 
 ## 37.Object Tracking(目标跟踪)
+* 多目标跟踪
+  * [AttTrack: Online Deep Attention Transfer for Multi-object Tracking](https://arxiv.org/abs/2210.08648)
 
 <a name="36"/>
 
@@ -192,6 +194,8 @@
 <a name="24"/>
 
 ## 24.Image Retrieval(图像检索)
+* 图像-句子检索
+  * [Cross-modal Semantic Enhanced Interaction for Image-Sentence Retrieval](https://arxiv.org/abs/2210.08908)
 
 <a name="23"/>
 
@@ -208,6 +212,7 @@
 <a name="21"/>
 
 ## 21.Point Cloud(点云)
+* [PointNeuron: 3D Neuron Reconstruction via Geometry and Topology Learning of Point Clouds](https://arxiv.org/abs/2210.08305)
 
 <a name="20"/>
 
@@ -263,6 +268,7 @@
 ## 12.One\Few-Shot Learning or Domain Adaptation\Generalization\Shift(单\小样本学习 or 域适应\泛化\偏移)
 * 域适应
   * [Reducing Annotation Effort by Identifying and Labeling Contextually Diverse Classes for Semantic Segmentation Under Domain Shift](https://arxiv.org/abs/2210.06749)<br>:star:[code](https://github.com/sharat29ag/contextual_class)
+  * [Self-Distillation for Unsupervised 3D Domain Adaptation](https://arxiv.org/abs/2210.08226)<br>:house:[project](https://cvlab-unibo.github.io/FeatureDistillation/)
 
 <a name="11"/>
 
@@ -281,7 +287,9 @@
   * [Audio-Visual Face Reenactment](https://arxiv.org/abs/2210.02755)<br>:house:[project](http://cvit.iiit.ac.in/research/projects/cvit-projects/avfr)
 * 基于表情的脸部皱纹合成
   * [Mesh-Tension Driven Expression-Based Wrinkles for Synthetic Faces](https://arxiv.org/abs/2210.03529)
-
+* 人脸命名
+  * [Weakly Supervised Face Naming with Symmetry-Enhanced Contrastive Loss](https://arxiv.org/abs/2210.08957)
+ 
 <a name="10"/>
 
 ## 10.Adversarial Learning(对抗学习)
@@ -332,6 +340,7 @@
 ## 3.3D(三维视觉)
 * 深度估计
   * [Frequency-Aware Self-Supervised Monocular Depth Estimation](https://arxiv.org/abs/2210.05479)<br>:star:[code](https://github.com/xingyuuchen/freq-aware-depth)
+  * [Attention Attention Everywhere: Monocular Depth Prediction with Skip Attention](https://arxiv.org/abs/2210.09071)<br>:star:[code](https://github.com/ashutosh1807/PixelFormer)
 * MVS
   * [Multi-View Photometric Stereo Revisited](https://arxiv.org/abs/2210.07670)
 
@@ -354,3 +363,4 @@
 * [AdaNorm: Adaptive Gradient Norm Correction based Optimizer for CNNs](https://arxiv.org/abs/2210.06364)<br>:star:[code](https://github.com/shivram1987/AdaNorm)
 * [Composite Learning for Robust and Effective Dense Predictions](https://arxiv.org/abs/2210.07239)
 * [SAILOR: Scaling Anchors via Insights into Latent Object](https://arxiv.org/abs/2210.07811)<br>:star:[code](https://github.com/malicd/sailor)
+* [Modeling the Lighting in Scenes as Style for Auto White-Balance Correction](https://arxiv.org/abs/2210.09090)<br>:star:[code](https://github.com/birdortyedi/lighting-as-style-awb-correction)
