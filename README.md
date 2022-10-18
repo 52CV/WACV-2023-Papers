@@ -364,3 +364,4 @@
 * [Composite Learning for Robust and Effective Dense Predictions](https://arxiv.org/abs/2210.07239)
 * [SAILOR: Scaling Anchors via Insights into Latent Object](https://arxiv.org/abs/2210.07811)<br>:star:[code](https://github.com/malicd/sailor)
 * [Modeling the Lighting in Scenes as Style for Auto White-Balance Correction](https://arxiv.org/abs/2210.09090)<br>:star:[code](https://github.com/birdortyedi/lighting-as-style-awb-correction)
+* [DE-CROP: Data-efficient Certified Robustness for Pretrained Classifiers](https://arxiv.org/abs/2210.08929)<br>:house:[project](https://sites.google.com/view/decrop)
