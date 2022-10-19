@@ -213,6 +213,8 @@
 
 ## 21.Point Cloud(点云)
 * [PointNeuron: 3D Neuron Reconstruction via Geometry and Topology Learning of Point Clouds](https://arxiv.org/abs/2210.08305)
+* 点云配准
+  * [Overlap-guided Gaussian Mixture Models for Point Cloud Registration](https://arxiv.org/abs/2210.09836)<br>:star:[code](https://github.com/gfmei/ogmm)
 
 <a name="20"/>
 
@@ -365,3 +367,5 @@
 * [SAILOR: Scaling Anchors via Insights into Latent Object](https://arxiv.org/abs/2210.07811)<br>:star:[code](https://github.com/malicd/sailor)
 * [Modeling the Lighting in Scenes as Style for Auto White-Balance Correction](https://arxiv.org/abs/2210.09090)<br>:star:[code](https://github.com/birdortyedi/lighting-as-style-awb-correction)
 * [DE-CROP: Data-efficient Certified Robustness for Pretrained Classifiers](https://arxiv.org/abs/2210.08929)<br>:house:[project](https://sites.google.com/view/decrop)
+* [Anisotropic Multi-Scale Graph Convolutional Network for Dense Shape Correspondence](https://arxiv.org/abs/2210.09466)
+* [ATCON: Attention Consistency for Vision Models](https://arxiv.org/abs/2210.09705)<br>:star:[code](https://github.com/alimirzazadeh/SemisupervisedAttention)
