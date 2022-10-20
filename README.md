@@ -36,9 +36,14 @@
 |[1.其它](#1)|[2.Medical Image(医学影像)](#2)|[3.3D(三维视觉)](#3)|[4.GAN(生成对抗网络)](#4)|
 
 
+## Human Motion Prediction(人类运动预测)
+* [Multi-view Tracking Using Weakly Supervised Human Motion Prediction](https://arxiv.org/abs/2210.10771)<br>:star:[code](https://github.com/cvlab-epfl/MVFlow)
+
 ## Sound
 * Audio Visual Event Localization视听事件定位
   * [AVE-CLIP: AudioCLIP-based Multi-window Temporal Transformer for Audio Visual Event Localization](https://arxiv.org/abs/2210.05060)
+* 音频去噪
+  * [BirdSoundsDenoising: Deep Visual Audio Denoising for Bird Sounds](https://arxiv.org/abs/2210.10196)
 
 ## Style Transfer
 * [Line Search-Based Feature Transformation for Fast, Stable, and Tunable Content-Style Control in Photorealistic Style Transfer](https://arxiv.org/abs/2210.05996)<br>:star:[code](https://github.com/chiutaiyin/LS-FT)
@@ -62,6 +67,8 @@
 <a name="53"/>
 
 ## 53.Gaze Estimation(视线估计)
+* iris localization(虹膜定位)
+  * [Segmentation-free Direct Iris Localization Networks](https://arxiv.org/abs/2210.10403)
 
 <a name="52"/>
 
@@ -133,12 +140,16 @@
 <a name="36"/>
 
 ## 36.Soft Biometrics(软生物技术)
+* 手指静脉识别
+  * [Analysis of Master Vein Attacks on Finger Vein Recognition Systems](https://arxiv.org/abs/2210.10667)
 
 <a name="35"/>
 
 ## 35.VQA(视觉问答)
 * [DRAMA: Joint Risk Localization and Captioning in Driving](https://arxiv.org/abs/2209.10767)
-
+* VideoQA
+  * [Dense but Efficient VideoQA for Intricate Compositional Reasoning](https://arxiv.org/abs/2210.10300)
+ 
 <a name="34"/>
 
 ## 34.SLAM\Robots
@@ -186,6 +197,7 @@
 <a name="26"/>
 
 ## 26.Dataset\Benchmark(数据集\基准)
+* [OpenEarthMap: A Benchmark Dataset for Global High-Resolution Land Cover Mapping](https://arxiv.org/abs/2210.10732)<br>:sunflower:[dataset](https://open-earth-map.org/)
 
 <a name="25"/>
 
@@ -252,6 +264,8 @@
 ## 14.Un\Self\Semi-Supervised Learning(无\自\半监督学习)
 * 自监督
   * [Self-Supervised Pyramid Representation Learning for Multi-Label Visual Analysis and Beyond](https://arxiv.org/abs/2208.14439)<br>:star:[code](https://github.com/WesleyHsieh0806/SS-PRL)
+* 半监督
+  * [Class-Level Confidence Based 3D Semi-Supervised Learning](https://arxiv.org/abs/2210.10138)
 
 <a name="13"/>
 
@@ -271,6 +285,8 @@
 * 域适应
   * [Reducing Annotation Effort by Identifying and Labeling Contextually Diverse Classes for Semantic Segmentation Under Domain Shift](https://arxiv.org/abs/2210.06749)<br>:star:[code](https://github.com/sharat29ag/contextual_class)
   * [Self-Distillation for Unsupervised 3D Domain Adaptation](https://arxiv.org/abs/2210.08226)<br>:house:[project](https://cvlab-unibo.github.io/FeatureDistillation/)
+* 域泛化
+  * [Intra-Source Style Augmentation for Improved Domain Generalization](https://arxiv.org/abs/2210.10175)
 
 <a name="11"/>
 
@@ -319,6 +335,8 @@
 * 视频理解
   * 通用事件边界检测
     * [Motion Aware Self-Supervision for Generic Event Boundary Detection](https://arxiv.org/abs/2210.05574)<br>:star:[code](https://github.com/rayush7/motion_ssl_gebd)
+* 多人检测
+  * [Two-level Data Augmentation for Calibrated Multi-view Detection](https://arxiv.org/abs/2210.10756)<br>:star:[code](https://github.com/cvlab-epfl/MVAug)
 
 <a name="5"/>
 
@@ -343,6 +361,7 @@
 * 深度估计
   * [Frequency-Aware Self-Supervised Monocular Depth Estimation](https://arxiv.org/abs/2210.05479)<br>:star:[code](https://github.com/xingyuuchen/freq-aware-depth)
   * [Attention Attention Everywhere: Monocular Depth Prediction with Skip Attention](https://arxiv.org/abs/2210.09071)<br>:star:[code](https://github.com/ashutosh1807/PixelFormer)
+  * [High-Resolution Depth Estimation for 360-degree Panoramas through Perspective and Panoramic Depth Images Registration](https://arxiv.org/abs/2210.10414)
 * MVS
   * [Multi-View Photometric Stereo Revisited](https://arxiv.org/abs/2210.07670)
 
@@ -369,3 +388,5 @@
 * [DE-CROP: Data-efficient Certified Robustness for Pretrained Classifiers](https://arxiv.org/abs/2210.08929)<br>:house:[project](https://sites.google.com/view/decrop)
 * [Anisotropic Multi-Scale Graph Convolutional Network for Dense Shape Correspondence](https://arxiv.org/abs/2210.09466)
 * [ATCON: Attention Consistency for Vision Models](https://arxiv.org/abs/2210.09705)<br>:star:[code](https://github.com/alimirzazadeh/SemisupervisedAttention)
+* [LAVA: Label-efficient Visual Learning and Adaptation](https://arxiv.org/abs/2210.10317)
+* [Interpolated SelectionConv for Spherical Images and Surfaces](https://arxiv.org/abs/2210.10123)
