@@ -244,6 +244,7 @@
 <a name="17"/>
 
 ## 17.OCR(文本检测)
+* [OCR-VQGAN: Taming Text-within-Image Generation](https://arxiv.org/abs/2210.11248)<br>:star:[code](https://github.com/joanrod/ocr-vqgan)
 * 文本识别
   * [Seq-UPS: Sequential Uncertainty-aware Pseudo-label Selection for Semi-Supervised Text Recognition](https://arxiv.org/abs/2209.00641)
 
@@ -337,6 +338,8 @@
     * [Motion Aware Self-Supervision for Generic Event Boundary Detection](https://arxiv.org/abs/2210.05574)<br>:star:[code](https://github.com/rayush7/motion_ssl_gebd)
 * 多人检测
   * [Two-level Data Augmentation for Calibrated Multi-view Detection](https://arxiv.org/abs/2210.10756)<br>:star:[code](https://github.com/cvlab-epfl/MVAug)
+* 场景识别
+  * [MovieCLIP: Visual Scene Recognition in Movies](https://arxiv.org/abs/2210.11065)<br>:house:[project](https://sail.usc.edu/~mica/MovieCLIP/)
 
 <a name="5"/>
 
