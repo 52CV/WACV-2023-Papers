@@ -49,6 +49,10 @@
 * [Line Search-Based Feature Transformation for Fast, Stable, and Tunable Content-Style Control in Photorealistic Style Transfer](https://arxiv.org/abs/2210.05996)<br>:star:[code](https://github.com/chiutaiyin/LS-FT)
 
 
+## Pose Estimation
+* 6D
+  * [CRT-6D: Fast 6D Object Pose Estimation with Cascaded Refinement Transformers](https://arxiv.org/abs/2210.11718)<br>:star:[code](https://github.com/PedroCastro/CRT-6D)
+
 ## 57.Federated Learning(联邦学习)
 * [Learning Across Domains and Devices: Style-Driven Source-Free Domain Adaptation in Clustered Federated Learning](https://arxiv.org/abs/2210.02326)<br>:star:[code](https://github.com/Erosinho13/LADD)
 
@@ -206,6 +210,7 @@
 <a name="24"/>
 
 ## 24.Image Retrieval(图像检索)
+* [Boosting vision transformers for image retrieval](https://arxiv.org/abs/2210.11909)<br>:star:[code](https://github.com/dealicious-inc/DToP)
 * 图像-句子检索
   * [Cross-modal Semantic Enhanced Interaction for Image-Sentence Retrieval](https://arxiv.org/abs/2210.08908)
 
@@ -344,6 +349,7 @@
 <a name="5"/>
 
 ## 5.Object Detection(目标检测)
+* [ConfMix: Unsupervised Domain Adaptation for Object Detection via Confidence-based Mixing](https://arxiv.org/abs/2210.11539)<br>:star:[code](https://github.com/giuliomattolin/ConfMix)
 * VOD
   * [BoxMask: Revisiting Bounding Box Supervision for Video Object Detection](https://arxiv.org/abs/2210.06008)
 * OOD
@@ -361,6 +367,7 @@
 <a name="3"/>
 
 ## 3.3D(三维视觉)
+* [Generative Range Imaging for Learning Scene Priors of 3D LiDAR Data](https://arxiv.org/abs/2210.11750)<br>:star:[code](https://github.com/kazuto1011/dusty-gan-v2)
 * 深度估计
   * [Frequency-Aware Self-Supervised Monocular Depth Estimation](https://arxiv.org/abs/2210.05479)<br>:star:[code](https://github.com/xingyuuchen/freq-aware-depth)
   * [Attention Attention Everywhere: Monocular Depth Prediction with Skip Attention](https://arxiv.org/abs/2210.09071)<br>:star:[code](https://github.com/ashutosh1807/PixelFormer)
