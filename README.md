@@ -38,6 +38,7 @@
 
 ## Human Motion Prediction(人类运动预测)
 * [Multi-view Tracking Using Weakly Supervised Human Motion Prediction](https://arxiv.org/abs/2210.10771)<br>:star:[code](https://github.com/cvlab-epfl/MVFlow)
+* [Anticipative Feature Fusion Transformer for Multi-Modal Action Anticipation](https://arxiv.org/abs/2210.12649)<br>:star:[code](https://github.com/zeyun-zhong/AFFT)
 
 ## Sound
 * Audio Visual Event Localization视听事件定位
@@ -52,6 +53,10 @@
 ## Pose Estimation
 * 6D
   * [CRT-6D: Fast 6D Object Pose Estimation with Cascaded Refinement Transformers](https://arxiv.org/abs/2210.11718)<br>:star:[code](https://github.com/PedroCastro/CRT-6D)
+
+## 
+* 行人搜索
+  * [Gallery Filter Network for Person Search](https://arxiv.org/abs/2210.12903)<br>:star:[code](https://github.com/LukeJaffe/GFN)
 
 ## 57.Federated Learning(联邦学习)
 * [Learning Across Domains and Devices: Style-Driven Source-Free Domain Adaptation in Clustered Federated Learning](https://arxiv.org/abs/2210.02326)<br>:star:[code](https://github.com/Erosinho13/LADD)
@@ -97,6 +102,7 @@
 <a name="47"/>
 
 ## 47.Data Augmentation(数据增强)
+* [Rethinking Rotation in Self-Supervised Contrastive Learning: Adaptive Positive or Negative Data Augmentation](https://arxiv.org/abs/2210.12681)<br>:star:[code](https://github.com/AtsuMiyai/rethinking_rotation)
 
 <a name="46"/>
 
@@ -213,11 +219,13 @@
 * [Boosting vision transformers for image retrieval](https://arxiv.org/abs/2210.11909)<br>:star:[code](https://github.com/dealicious-inc/DToP)
 * 图像-句子检索
   * [Cross-modal Semantic Enhanced Interaction for Image-Sentence Retrieval](https://arxiv.org/abs/2210.08908)
+* 图像-文本检索
+  * [Dissecting Deep Metric Learning Losses for Image-Text Retrieval](https://arxiv.org/abs/2210.13188)<br>:star:[code](https://github.com/littleredxh/VSE-Gradient)
 
 <a name="23"/>
 
 ## 23.Autonomous Driving(智能驾驶)
-
+* [IDD-3D: Indian Driving Dataset for 3D Unstructured Road Scenes](https://arxiv.org/abs/2210.12878)<br>:star:[code](https://github.com/shubham1810/idd3d_kit)
 
 <a name="22"/>
 
@@ -225,6 +233,7 @@
 * 动作识别
   * [Modality Mixer for Multi-modal Action Recognition](https://arxiv.org/abs/2208.11314)
   * [STAR-Transformer: A Spatio-temporal Cross Attention Transformer for Human Action Recognition](https://arxiv.org/abs/2210.07503)
+  * [Holistic Interaction Transformer Network for Action Detection](https://arxiv.org/abs/2210.12686)<br>:star:[code](https://github.com/joslefaure/HIT)
 
 <a name="21"/>
 
@@ -237,10 +246,14 @@
 
 ## 20.Transformer
 * [EmbryosFormer: Deformable Transformer and Collaborative Encoding-Decoding for Embryos Stage Development Classification](https://arxiv.org/abs/2210.04615)<br>:star:[code](https://github.com/UARK-AICV/Embryos)
+* [Delving into Masked Autoencoders for Multi-Label Thorax Disease Classification](https://arxiv.org/abs/2210.12843)<br>:star:[code](https://github.com/lambert-x/Medical_MAE)
+* [Accumulated Trivial Attention Matters in Vision Transformers on Small Datasets](https://arxiv.org/abs/2210.12333)<br>:star:[code](https://github.com/xiangyu8/SATA)
 
 <a name="19"/>
 
 ## 19.Model Compression\Knowledge Distillation\Pruning(模型压缩\知识蒸馏\剪枝)
+* 剪枝
+  * [Pushing the Efficiency Limit Using Structured Sparse Convolutions](https://arxiv.org/abs/2210.12818)<br>:star:[code](https://github.com/vkvermaa/SSC)
 
 <a name="18"/>
 
@@ -256,6 +269,7 @@
 <a name="16"/>
 
 ## 16.Super-Resolution(超分辨率)
+* [Single Image Super-Resolution via a Dual Interactive Implicit Neural Network](https://arxiv.org/abs/2210.12593)
 
 <a name="15"/>
 
@@ -345,6 +359,8 @@
   * [Two-level Data Augmentation for Calibrated Multi-view Detection](https://arxiv.org/abs/2210.10756)<br>:star:[code](https://github.com/cvlab-epfl/MVAug)
 * 场景识别
   * [MovieCLIP: Visual Scene Recognition in Movies](https://arxiv.org/abs/2210.11065)<br>:house:[project](https://sail.usc.edu/~mica/MovieCLIP/)
+* Video Grounding
+  * [Language-free Training for Zero-shot Video Grounding](https://arxiv.org/abs/2210.12977)
 
 <a name="5"/>
 
@@ -356,6 +372,8 @@
   * [Out-of-distribution Detection via Frequency-regularized Generative Models](https://arxiv.org/abs/2208.09083)<br>:star:[code](https://github.com/mu-cai/FRL)
 * 伪装目标检测
   * [MFFN: Multi-view Feature Fusion Network for Camouflaged Object Detection](https://arxiv.org/abs/2210.06361)<br>:star:[code](https://github.com/dwardzheng/MFFN_COD)
+* 目标发现
+  * [Foreground Guidance and Multi-Layer Feature Fusion for Unsupervised Object Discovery with Transformers](https://arxiv.org/abs/2210.13053)<br>:star:[code](https://github.com/VDIGPKU/FORMULA)
 
 <a name="4"/>
 
@@ -374,6 +392,8 @@
   * [High-Resolution Depth Estimation for 360-degree Panoramas through Perspective and Panoramic Depth Images Registration](https://arxiv.org/abs/2210.10414)
 * MVS
   * [Multi-View Photometric Stereo Revisited](https://arxiv.org/abs/2210.07670)
+* RGB-D重建
+  * [High-Quality RGB-D Reconstruction via Multi-View Uncalibrated Photometric Stereo and Gradient-SDF](https://arxiv.org/abs/2210.12202)<br>:star:[code](https://github.com/Sangluisme/PSgradientSDF)
 
 <a name="2"/>
 
@@ -400,3 +420,4 @@
 * [ATCON: Attention Consistency for Vision Models](https://arxiv.org/abs/2210.09705)<br>:star:[code](https://github.com/alimirzazadeh/SemisupervisedAttention)
 * [LAVA: Label-efficient Visual Learning and Adaptation](https://arxiv.org/abs/2210.10317)
 * [Interpolated SelectionConv for Spherical Images and Surfaces](https://arxiv.org/abs/2210.10123)
+* [Augmentation by Counterfactual Explanation -- Fixing an Overconfident Classifier](https://arxiv.org/abs/2210.12196)
