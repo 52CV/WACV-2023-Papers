@@ -39,6 +39,7 @@
 ## Human Motion Prediction(人类运动预测)
 * [Multi-view Tracking Using Weakly Supervised Human Motion Prediction](https://arxiv.org/abs/2210.10771)<br>:star:[code](https://github.com/cvlab-epfl/MVFlow)
 * [Anticipative Feature Fusion Transformer for Multi-Modal Action Anticipation](https://arxiv.org/abs/2210.12649)<br>:star:[code](https://github.com/zeyun-zhong/AFFT)
+* [GliTr: Glimpse Transformers with Spatiotemporal Consistency for Online Action Prediction](https://arxiv.org/abs/2210.13605)
 
 ## Sound
 * Audio Visual Event Localization视听事件定位
@@ -49,11 +50,6 @@
 ## Style Transfer
 * [Line Search-Based Feature Transformation for Fast, Stable, and Tunable Content-Style Control in Photorealistic Style Transfer](https://arxiv.org/abs/2210.05996)<br>:star:[code](https://github.com/chiutaiyin/LS-FT)
 
-
-## Pose Estimation
-* 6D
-  * [CRT-6D: Fast 6D Object Pose Estimation with Cascaded Refinement Transformers](https://arxiv.org/abs/2210.11718)<br>:star:[code](https://github.com/PedroCastro/CRT-6D)
-
 ## 
 * 行人搜索
   * [Gallery Filter Network for Person Search](https://arxiv.org/abs/2210.12903)<br>:star:[code](https://github.com/LukeJaffe/GFN)
@@ -63,6 +59,7 @@
 
 ## 56.Vision-Language(视觉语言)
 * [VL-Taboo: An Analysis of Attribute-based Zero-shot Capabilities of Vision-Language Models](https://arxiv.org/abs/2209.06103)<br>:star:[code](https://github.com/felixVogel02/VL-Taboo/tree/main)
+* [Learning by Hallucinating: Vision-Language Pre-training with Weak Supervision](https://arxiv.org/abs/2210.13591)
 
 <a name="55"/>
 
@@ -157,6 +154,7 @@
 
 ## 35.VQA(视觉问答)
 * [DRAMA: Joint Risk Localization and Captioning in Driving](https://arxiv.org/abs/2209.10767)
+* [VLC-BERT: Visual Question Answering with Contextualized Commonsense Knowledge](https://arxiv.org/abs/2210.13626)<br>:star:[code](https://github.com/aditya10/VLC-BERT)
 * VideoQA
   * [Dense but Efficient VideoQA for Intricate Compositional Reasoning](https://arxiv.org/abs/2210.10300)
  
@@ -194,11 +192,8 @@
 <a name="28"/>
 
 ## 28.Pose Estimation(姿态估计)
-* 多人姿态估计
-  * [SoMoFormer: Multi-Person Pose Forecasting with Transformers](https://arxiv.org/abs/2208.14023)<br>:house:[project](https://somof.stanford.edu/result/217/)
-* 三维人体
-  * [Placing Human Animations into 3D Scenes by Learning Interaction- and Geometry-Driven Keyframes](https://arxiv.org/abs/2209.06314)
-  * [Uplift and Upsample: Efficient 3D Human Pose Estimation with Uplifting Transformers](https://arxiv.org/abs/2210.06110)<br>:star:[code](https://github.com/goldbricklemon/uplift-upsample-3dhpe)
+* 6D
+  * [CRT-6D: Fast 6D Object Pose Estimation with Cascaded Refinement Transformers](https://arxiv.org/abs/2210.11718)<br>:star:[code](https://github.com/PedroCastro/CRT-6D)
 
 <a name="27"/>
 
@@ -343,11 +338,19 @@
 ## 8.Image Processing(图像处理)
 * 图像恢复
   * [Large-to-small Image Resolution Asymmetry in Deep Metric Learning](https://arxiv.org/abs/2210.05463)<br>:star:[code](https://github.com/pavelsuma/raml)
+* 图像增强
+  * [Perceptual Image Enhancement for Smartphone Real-Time Applications](https://arxiv.org/abs/2210.13552)<br>:star:[code](https://github.com/mv-lab/AISP)
 
 <a name="7"/>
 
 ## 7.Human Pose(人体姿态)
-
+* 多人姿态估计
+  * [SoMoFormer: Multi-Person Pose Forecasting with Transformers](https://arxiv.org/abs/2208.14023)<br>:house:[project](https://somof.stanford.edu/result/217/)
+* 三维人体
+  * [Placing Human Animations into 3D Scenes by Learning Interaction- and Geometry-Driven Keyframes](https://arxiv.org/abs/2209.06314)
+  * [Uplift and Upsample: Efficient 3D Human Pose Estimation with Uplifting Transformers](https://arxiv.org/abs/2210.06110)<br>:star:[code](https://github.com/goldbricklemon/uplift-upsample-3dhpe)
+* 手部重建
+  * [THOR-Net: End-to-end Graformer-based Realistic Two Hands and Object Reconstruction with Self-supervision](https://arxiv.org/abs/2210.13853)<br>:star:[code](https://github.com/ATAboukhadra/THOR-Net)
 
 <a name="6"/>
 
@@ -421,3 +424,7 @@
 * [LAVA: Label-efficient Visual Learning and Adaptation](https://arxiv.org/abs/2210.10317)
 * [Interpolated SelectionConv for Spherical Images and Surfaces](https://arxiv.org/abs/2210.10123)
 * [Augmentation by Counterfactual Explanation -- Fixing an Overconfident Classifier](https://arxiv.org/abs/2210.12196)
+* BNN
+  * [LAB: Learnable Activation Binarizer for Binary Neural Networks](https://arxiv.org/abs/2210.13858)<br>:star:[code](https://github.com/sfalkena/LAB)
+
+
