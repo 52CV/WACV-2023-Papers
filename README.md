@@ -258,6 +258,7 @@
 
 ## 17.OCR(文本检测)
 * [OCR-VQGAN: Taming Text-within-Image Generation](https://arxiv.org/abs/2210.11248)<br>:star:[code](https://github.com/joanrod/ocr-vqgan)
+* [Efficient few-shot learning for pixel-precise handwritten document layout analysis](https://arxiv.org/abs/2210.15570)
 * 文本识别
   * [Seq-UPS: Sequential Uncertainty-aware Pseudo-label Selection for Semi-Supervised Text Recognition](https://arxiv.org/abs/2209.00641)
 
@@ -371,6 +372,7 @@
 
 ## 5.Object Detection(目标检测)
 * [ConfMix: Unsupervised Domain Adaptation for Object Detection via Confidence-based Mixing](https://arxiv.org/abs/2210.11539)<br>:star:[code](https://github.com/giuliomattolin/ConfMix)
+* [Domain Adaptive Object Detection for Autonomous Driving under Foggy Weather](https://arxiv.org/abs/2210.15176)<br>:star:[code](https://github.com/jinlong17/DA-Detect)
 * VOD
   * [BoxMask: Revisiting Bounding Box Supervision for Video Object Detection](https://arxiv.org/abs/2210.06008)
 * OOD
@@ -379,6 +381,8 @@
   * [MFFN: Multi-view Feature Fusion Network for Camouflaged Object Detection](https://arxiv.org/abs/2210.06361)<br>:star:[code](https://github.com/dwardzheng/MFFN_COD)
 * 目标发现
   * [Foreground Guidance and Multi-Layer Feature Fusion for Unsupervised Object Discovery with Transformers](https://arxiv.org/abs/2210.13053)<br>:star:[code](https://github.com/VDIGPKU/FORMULA)
+* 3D目标检测
+  * [Li3DeTr: A LiDAR based 3D Detection Transformer](https://arxiv.org/abs/2210.15365)
 
 <a name="4"/>
 
