@@ -340,6 +340,8 @@
   * [Large-to-small Image Resolution Asymmetry in Deep Metric Learning](https://arxiv.org/abs/2210.05463)<br>:star:[code](https://github.com/pavelsuma/raml)
 * 图像增强
   * [Perceptual Image Enhancement for Smartphone Real-Time Applications](https://arxiv.org/abs/2210.13552)<br>:star:[code](https://github.com/mv-lab/AISP)
+* 图像着色
+  * [Guiding Users to Where to Give Color Hints for Efficient Interactive Sketch Colorization via Unsupervised Region Prioritization](https://arxiv.org/abs/2210.14270)
 
 <a name="7"/>
 
