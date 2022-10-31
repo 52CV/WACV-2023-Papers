@@ -170,6 +170,7 @@
 
 ## 32.Continual Learning(持续学习)
 * [Continual Learning with Dependency Preserving Hypernetworks](https://arxiv.org/abs/2209.07712)
+* [Do Pre-trained Models Benefit Equally in Continual Learning](https://arxiv.org/abs/2210.15701)<br>:star:[code](https://github.com/eric11220/pretrained-models-in-CL)
 
 <a name="31"/>
 
@@ -249,6 +250,8 @@
 ## 19.Model Compression\Knowledge Distillation\Pruning(模型压缩\知识蒸馏\剪枝)
 * 剪枝
   * [Pushing the Efficiency Limit Using Structured Sparse Convolutions](https://arxiv.org/abs/2210.12818)<br>:star:[code](https://github.com/vkvermaa/SSC)
+* 知识蒸馏
+  * [Collaborative Multi-Teacher Knowledge Distillation for Learning Low Bit-width Deep Neural Networks](https://arxiv.org/abs/2210.16103)
 
 <a name="18"/>
 
@@ -280,6 +283,7 @@
 ## 14.Un\Self\Semi-Supervised Learning(无\自\半监督学习)
 * 自监督
   * [Self-Supervised Pyramid Representation Learning for Multi-Label Visual Analysis and Beyond](https://arxiv.org/abs/2208.14439)<br>:star:[code](https://github.com/WesleyHsieh0806/SS-PRL)
+  * [FUSSL: Fuzzy Uncertain Self Supervised Learning](https://arxiv.org/abs/2210.15818)
 * 半监督
   * [Class-Level Confidence Based 3D Semi-Supervised Learning](https://arxiv.org/abs/2210.10138)
 
@@ -343,7 +347,9 @@
   * [Perceptual Image Enhancement for Smartphone Real-Time Applications](https://arxiv.org/abs/2210.13552)<br>:star:[code](https://github.com/mv-lab/AISP)
 * 图像着色
   * [Guiding Users to Where to Give Color Hints for Efficient Interactive Sketch Colorization via Unsupervised Region Prioritization](https://arxiv.org/abs/2210.14270)
-
+* HDR重构
+  * [Single-Image HDR Reconstruction by Multi-Exposure Generation](https://arxiv.org/abs/2210.15897)<br>:star:[code](https://github.com/VinAIResearch/single_image_hdr)
+  
 <a name="7"/>
 
 ## 7.Human Pose(人体姿态)
@@ -373,6 +379,7 @@
 ## 5.Object Detection(目标检测)
 * [ConfMix: Unsupervised Domain Adaptation for Object Detection via Confidence-based Mixing](https://arxiv.org/abs/2210.11539)<br>:star:[code](https://github.com/giuliomattolin/ConfMix)
 * [Domain Adaptive Object Detection for Autonomous Driving under Foggy Weather](https://arxiv.org/abs/2210.15176)<br>:star:[code](https://github.com/jinlong17/DA-Detect)
+* [ROMA: Run-Time Object Detection To Maximize Real-Time Accuracy](https://arxiv.org/abs/2210.16083)
 * VOD
   * [BoxMask: Revisiting Bounding Box Supervision for Video Object Detection](https://arxiv.org/abs/2210.06008)
 * OOD
