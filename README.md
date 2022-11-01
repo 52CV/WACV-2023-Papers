@@ -46,6 +46,8 @@
   * [AVE-CLIP: AudioCLIP-based Multi-window Temporal Transformer for Audio Visual Event Localization](https://arxiv.org/abs/2210.05060)
 * 音频去噪
   * [BirdSoundsDenoising: Deep Visual Audio Denoising for Bird Sounds](https://arxiv.org/abs/2210.10196)
+* 视听分割
+  * [Unsupervised Audio-Visual Lecture Segmentation](https://arxiv.org/abs/2210.16644)<br>:house:[project](https://cvit.iiit.ac.in/research/projects/cvit-projects/avlectures)
 
 ## Style Transfer
 * [Line Search-Based Feature Transformation for Fast, Stable, and Tunable Content-Style Control in Photorealistic Style Transfer](https://arxiv.org/abs/2210.05996)<br>:star:[code](https://github.com/chiutaiyin/LS-FT)
