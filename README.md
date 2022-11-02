@@ -404,6 +404,7 @@
 
 ## 3.3D(三维视觉)
 * [Generative Range Imaging for Learning Scene Priors of 3D LiDAR Data](https://arxiv.org/abs/2210.11750)<br>:star:[code](https://github.com/kazuto1011/dusty-gan-v2)
+* [Seg&Struct: The Interplay Between Part Segmentation and Structure Inference for 3D Shape Parsing](https://arxiv.org/abs/2211.00382)
 * 深度估计
   * [Frequency-Aware Self-Supervised Monocular Depth Estimation](https://arxiv.org/abs/2210.05479)<br>:star:[code](https://github.com/xingyuuchen/freq-aware-depth)
   * [Attention Attention Everywhere: Monocular Depth Prediction with Skip Attention](https://arxiv.org/abs/2210.09071)<br>:star:[code](https://github.com/ashutosh1807/PixelFormer)
@@ -412,6 +413,9 @@
   * [Multi-View Photometric Stereo Revisited](https://arxiv.org/abs/2210.07670)
 * RGB-D重建
   * [High-Quality RGB-D Reconstruction via Multi-View Uncalibrated Photometric Stereo and Gradient-SDF](https://arxiv.org/abs/2210.12202)<br>:star:[code](https://github.com/Sangluisme/PSgradientSDF)
+* Stereo Matching
+  * [Expansion of Visual Hints for Improved Generalization in Stereo Matching](https://arxiv.org/abs/2211.00392)
+
 
 <a name="2"/>
 
