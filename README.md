@@ -313,6 +313,7 @@
 <a name="11"/>
 
 ## 11.Face(人脸)
+* [My Face My Choice: Privacy Enhancing Deepfakes for Social Media Anonymization](https://arxiv.org/abs/2211.01361)
 * 人脸识别
   * [DigiFace-1M: 1 Million Digital Face Images for Face Recognition](https://arxiv.org/abs/2210.02579)<br>:star:[code](https://github.com/microsoft/DigiFace1M)
 * 人脸交换
@@ -375,6 +376,10 @@
   * [MovieCLIP: Visual Scene Recognition in Movies](https://arxiv.org/abs/2210.11065)<br>:house:[project](https://sail.usc.edu/~mica/MovieCLIP/)
 * Video Grounding
   * [Language-free Training for Zero-shot Video Grounding](https://arxiv.org/abs/2210.12977)
+* 视频异常检测(VAD)
+  * [DyAnNet: A Scene Dynamicity Guided Self-Trained Video Anomaly Detection Network](https://arxiv.org/abs/2211.00882)
+* 图像视频编解码
+  * [Universal Deep Image Compression via Content-Adaptive Optimization with Adapters](https://arxiv.org/abs/2211.00918)<br>:star:[code](https://github.com/kktsubota/universal-dic)
 
 <a name="5"/>
 
