@@ -52,7 +52,10 @@
 ## Style Transfer
 * [Line Search-Based Feature Transformation for Fast, Stable, and Tunable Content-Style Control in Photorealistic Style Transfer](https://arxiv.org/abs/2210.05996)<br>:star:[code](https://github.com/chiutaiyin/LS-FT)
 
-## 
+## 场景图生成
+* [Grounding Scene Graphs on Natural Images via Visio-Lingual Message Passing](https://arxiv.org/abs/2211.01969)<br>:star:[code](https://github.com/IISCAditayTripathi/Scene-graph-localization):house:[project](https://iiscaditaytripathi.github.io/sgl/)
+
+##
 * 行人搜索
   * [Gallery Filter Network for Person Search](https://arxiv.org/abs/2210.12903)<br>:star:[code](https://github.com/LukeJaffe/GFN)
 
