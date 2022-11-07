@@ -297,12 +297,16 @@
 ## 13.Image Segmentation(图像分割)
 * VOS
   * [Unsupervised Video Object Segmentation via Prototype Memory Network](https://arxiv.org/abs/2209.03712)
+* VSS
+  * [Domain Adaptive Video Semantic Segmentation via Cross-Domain Moving Object Mixing](https://arxiv.org/abs/2211.02307)
 * 语义分割
   * [Attribution-aware Weight Transfer: A Warm-Start Initialization for Class-Incremental Semantic Segmentation](https://arxiv.org/abs/2210.07207)<br>:star:[code](https://github.com/dfki-av/AWT-for-CISS)
 * BEV segmentation
   * [X-Align: Cross-Modal Cross-View Alignment for Bird's-Eye-View Segmentation](https://arxiv.org/abs/2210.06778)<br>:star:[code](https://github.com/robot-learning-freiburg/PanopticBEV)
 * 全景分割
   * [MonoDVPS: A Self-Supervised Monocular Depth Estimation Approach to Depth-aware Video Panoptic Segmentation](https://arxiv.org/abs/2210.07577)
+* 小样本分割
+  * [Elimination of Non-Novel Segments at Multi-Scale for Few-Shot Segmentation](https://arxiv.org/abs/2211.02300)
 
 <a name="12"/>
 
