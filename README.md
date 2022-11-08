@@ -48,6 +48,8 @@
   * [BirdSoundsDenoising: Deep Visual Audio Denoising for Bird Sounds](https://arxiv.org/abs/2210.10196)
 * 视听分割
   * [Unsupervised Audio-Visual Lecture Segmentation](https://arxiv.org/abs/2210.16644)<br>:house:[project](https://cvit.iiit.ac.in/research/projects/cvit-projects/avlectures)
+* 生源定位
+  * [Hear The Flow: Optical Flow-Based Self-Supervised Visual Sound Source Localization](https://arxiv.org/abs/2211.03019)<br>:star:[code](https://github.com/denfed/heartheflow)
 
 ## Style Transfer
 * [Line Search-Based Feature Transformation for Fast, Stable, and Tunable Content-Style Control in Photorealistic Style Transfer](https://arxiv.org/abs/2210.05996)<br>:star:[code](https://github.com/chiutaiyin/LS-FT)
@@ -55,9 +57,11 @@
 ## 场景图生成
 * [Grounding Scene Graphs on Natural Images via Visio-Lingual Message Passing](https://arxiv.org/abs/2211.01969)<br>:star:[code](https://github.com/IISCAditayTripathi/Scene-graph-localization):house:[project](https://iiscaditaytripathi.github.io/sgl/)
 
-##
+## Person ReID
 * 行人搜索
   * [Gallery Filter Network for Person Search](https://arxiv.org/abs/2210.12903)<br>:star:[code](https://github.com/LukeJaffe/GFN)
+* Re-id
+  * [Camera Alignment and Weighted Contrastive Learning for Domain Adaptation in Video Person ReID](https://arxiv.org/abs/2211.03626)<br>:star:[code](https://github.com/dmekhazni/CAWCL-ReID)
 
 ## 57.Federated Learning(联邦学习)
 * [Learning Across Domains and Devices: Style-Driven Source-Free Domain Adaptation in Clustered Federated Learning](https://arxiv.org/abs/2210.02326)<br>:star:[code](https://github.com/Erosinho13/LADD)
@@ -409,6 +413,7 @@
 
 ## 4.GAN(生成对抗网络)
 * [HoechstGAN: Virtual Lymphocyte Staining Using Generative Adversarial Networks](https://arxiv.org/abs/2210.06909)
+* [Image Completion with Heterogeneously Filtered Spectral Hints](https://arxiv.org/abs/2211.03700)<br>:star:[code](https://github.com/SHI-Labs/SH-GAN)
 * fashion attribute editing(时尚属性编辑)
   * [Leveraging Off-the-shelf Diffusion Model for Multi-attribute Fashion Image Manipulation](https://arxiv.org/abs/2210.05872)
   
