@@ -261,6 +261,7 @@
   * [Pushing the Efficiency Limit Using Structured Sparse Convolutions](https://arxiv.org/abs/2210.12818)<br>:star:[code](https://github.com/vkvermaa/SSC)
 * 知识蒸馏
   * [Collaborative Multi-Teacher Knowledge Distillation for Learning Low Bit-width Deep Neural Networks](https://arxiv.org/abs/2210.16103)
+  * [Understanding the Role of Mixup in Knowledge Distillation: \\An Empirical Study](https://arxiv.org/abs/2211.03946)<br>:star:[code](https://github.com/hchoi71/MIX-KD)
 
 <a name="18"/>
 
@@ -318,6 +319,7 @@
 * 域适应
   * [Reducing Annotation Effort by Identifying and Labeling Contextually Diverse Classes for Semantic Segmentation Under Domain Shift](https://arxiv.org/abs/2210.06749)<br>:star:[code](https://github.com/sharat29ag/contextual_class)
   * [Self-Distillation for Unsupervised 3D Domain Adaptation](https://arxiv.org/abs/2210.08226)<br>:house:[project](https://cvlab-unibo.github.io/FeatureDistillation/)
+  * [CoNMix for Source-free Single and Multi-target Domain Adaptation](https://arxiv.org/abs/2211.03876)<br>:star:[code](https://github.com/vcl-iisc/CoNMix):house:[project](https://sites.google.com/view/conmix-vcl)
 * 域泛化
   * [Intra-Source Style Augmentation for Improved Domain Generalization](https://arxiv.org/abs/2210.10175)
 
