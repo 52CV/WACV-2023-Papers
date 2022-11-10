@@ -62,6 +62,7 @@
   * [Gallery Filter Network for Person Search](https://arxiv.org/abs/2210.12903)<br>:star:[code](https://github.com/LukeJaffe/GFN)
 * Re-id
   * [Camera Alignment and Weighted Contrastive Learning for Domain Adaptation in Video Person ReID](https://arxiv.org/abs/2211.03626)<br>:star:[code](https://github.com/dmekhazni/CAWCL-ReID)
+  * [MEVID: Multi-view Extended Videos with Identities for Video Person Re-Identification](https://arxiv.org/abs/2211.04656)<br>:star:[code](https://github.com/Kitware/MEVID)
 
 ## 57.Federated Learning(联邦学习)
 * [Learning Across Domains and Devices: Style-Driven Source-Free Domain Adaptation in Clustered Federated Learning](https://arxiv.org/abs/2210.02326)<br>:star:[code](https://github.com/Erosinho13/LADD)
