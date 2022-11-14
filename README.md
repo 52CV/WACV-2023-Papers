@@ -344,6 +344,8 @@
   * [Mesh-Tension Driven Expression-Based Wrinkles for Synthetic Faces](https://arxiv.org/abs/2210.03529)
 * 人脸命名
   * [Weakly Supervised Face Naming with Symmetry-Enhanced Contrastive Loss](https://arxiv.org/abs/2210.08957)
+* Facial Action Unit Detection
+  * [FAN-Trans: Online Knowledge Distillation for Facial Action Unit Detection](https://arxiv.org/abs/2211.06143) 
  
 <a name="10"/>
 
