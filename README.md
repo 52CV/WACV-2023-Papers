@@ -346,6 +346,8 @@
   * [Weakly Supervised Face Naming with Symmetry-Enhanced Contrastive Loss](https://arxiv.org/abs/2210.08957)
 * Facial Action Unit Detection
   * [FAN-Trans: Online Knowledge Distillation for Facial Action Unit Detection](https://arxiv.org/abs/2211.06143) 
+* 人脸质量评估
+  * [IFQA: Interpretable Face Quality Assessment](https://arxiv.org/abs/2211.07077)<br>:star:[code](https://github.com/VCLLab/IFQA) 
  
 <a name="10"/>
 
