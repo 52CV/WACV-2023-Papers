@@ -288,7 +288,9 @@
 * [Style-Guided Inference of Transformer for High-resolution Image Synthesis](https://arxiv.org/abs/2210.05533)
 * 图像生成
   * [Adaptively-Realistic Image Generation from Stroke and Sketch with Diffusion Model](https://arxiv.org/abs/2208.12675)<br>:star:[code](https://github.com/cyj407/DiSS):house:[project](https://cyj407.github.io/DiSS/)
-
+* 文本-图像合成
+  * [Arbitrary Style Guidance for Enhanced Diffusion-Based Text-to-Image Generation](https://arxiv.org/abs/2211.07751)<br>:star:[code](https://github.com/openai/glide-text2im)
+ 
 <a name="14"/>
 
 ## 14.Un\Self\Semi-Supervised Learning(无\自\半监督学习)
@@ -409,6 +411,7 @@
   * [BoxMask: Revisiting Bounding Box Supervision for Video Object Detection](https://arxiv.org/abs/2210.06008)
 * OOD
   * [Out-of-distribution Detection via Frequency-regularized Generative Models](https://arxiv.org/abs/2208.09083)<br>:star:[code](https://github.com/mu-cai/FRL)
+  * [Heatmap-based Out-of-Distribution Detection](https://arxiv.org/abs/2211.08115)<br>:star:[code](https://github.com/jhornauer/heatmap_ood)
 * 伪装目标检测
   * [MFFN: Multi-view Feature Fusion Network for Camouflaged Object Detection](https://arxiv.org/abs/2210.06361)<br>:star:[code](https://github.com/dwardzheng/MFFN_COD)
 * 目标发现
