@@ -247,6 +247,8 @@
 * [PointNeuron: 3D Neuron Reconstruction via Geometry and Topology Learning of Point Clouds](https://arxiv.org/abs/2210.08305)
 * 点云配准
   * [Overlap-guided Gaussian Mixture Models for Point Cloud Registration](https://arxiv.org/abs/2210.09836)<br>:star:[code](https://github.com/gfmei/ogmm)
+* 点云重建
+  * [PointInverter: Point Cloud Reconstruction and Editing via a Generative Model with Shape Priors](https://arxiv.org/abs/2211.08702)<br>:star:[code](https://github.com/hkust-vgd/point_inverter)
 
 <a name="20"/>
 
@@ -267,6 +269,7 @@
 <a name="18"/>
 
 ## 18.NAS(神经架构搜索)
+* [Revisiting Training-free NAS Metrics: An Efficient Training-based Method](https://arxiv.org/abs/2211.08666)<br>:star:[code](https://github.com/taoyang1122/Revisit_TrainingFree_NAS)
 
 <a name="17"/>
 
