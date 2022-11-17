@@ -386,6 +386,8 @@
   * [Uplift and Upsample: Efficient 3D Human Pose Estimation with Uplifting Transformers](https://arxiv.org/abs/2210.06110)<br>:star:[code](https://github.com/goldbricklemon/uplift-upsample-3dhpe)
 * 手部重建
   * [THOR-Net: End-to-end Graformer-based Realistic Two Hands and Object Reconstruction with Self-supervision](https://arxiv.org/abs/2210.13853)<br>:star:[code](https://github.com/ATAboukhadra/THOR-Net)
+* 手-物体姿势估计
+  * [Interacting Hand-Object Pose Estimation via Dense Mutual Attention](https://arxiv.org/abs/2211.08805)<br>:star:[code](https://github.com/rongakowang/DenseMutualAttention)
 
 <a name="6"/>
 
