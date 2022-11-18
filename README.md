@@ -431,6 +431,8 @@
 * [Image Completion with Heterogeneously Filtered Spectral Hints](https://arxiv.org/abs/2211.03700)<br>:star:[code](https://github.com/SHI-Labs/SH-GAN)
 * fashion attribute editing(时尚属性编辑)
   * [Leveraging Off-the-shelf Diffusion Model for Multi-attribute Fashion Image Manipulation](https://arxiv.org/abs/2210.05872)
+* 匿名化
+  * [DeepPrivacy2: Towards Realistic Full-Body Anonymization](https://arxiv.org/abs/2211.09454)<br>:star:[code](https://github.com/hukkelas/deep_privacy2)  
   
 <a name="3"/>
 
