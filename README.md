@@ -318,6 +318,8 @@
   * [MonoDVPS: A Self-Supervised Monocular Depth Estimation Approach to Depth-aware Video Panoptic Segmentation](https://arxiv.org/abs/2210.07577)
 * 小样本分割
   * [Elimination of Non-Novel Segments at Multi-Scale for Few-Shot Segmentation](https://arxiv.org/abs/2211.02300)
+* 细胞分割
+  * [Knowing What to Label for Few Shot Microscopy Image Cell Segmentation](https://arxiv.org/abs/2211.10244)<br>:star:[code](https://github.com/Yussef93/KnowWhatToLabel/)
 
 <a name="12"/>
 
@@ -395,6 +397,8 @@
 * 视频理解
   * 通用事件边界检测
     * [Motion Aware Self-Supervision for Generic Event Boundary Detection](https://arxiv.org/abs/2210.05574)<br>:star:[code](https://github.com/rayush7/motion_ssl_gebd)
+* 视频摘要
+  * [Contrastive Losses Are Natural Criteria for Unsupervised Video Summarization](https://arxiv.org/abs/2211.10056)<br>:star:[code](https://github.com/pangzss/pytorch-CTVSUM)
 * 多人检测
   * [Two-level Data Augmentation for Calibrated Multi-view Detection](https://arxiv.org/abs/2210.10756)<br>:star:[code](https://github.com/cvlab-epfl/MVAug)
 * 场景识别
@@ -443,6 +447,7 @@
   * [Frequency-Aware Self-Supervised Monocular Depth Estimation](https://arxiv.org/abs/2210.05479)<br>:star:[code](https://github.com/xingyuuchen/freq-aware-depth)
   * [Attention Attention Everywhere: Monocular Depth Prediction with Skip Attention](https://arxiv.org/abs/2210.09071)<br>:star:[code](https://github.com/ashutosh1807/PixelFormer)
   * [High-Resolution Depth Estimation for 360-degree Panoramas through Perspective and Panoramic Depth Images Registration](https://arxiv.org/abs/2210.10414)
+  * [Improving Pixel-Level Contrastive Learning by Leveraging Exogenous Depth Information](https://arxiv.org/abs/2211.10177)
 * MVS
   * [Multi-View Photometric Stereo Revisited](https://arxiv.org/abs/2210.07670)
 * RGB-D重建
