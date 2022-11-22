@@ -70,6 +70,7 @@
 ## 56.Vision-Language(视觉语言)
 * [VL-Taboo: An Analysis of Attribute-based Zero-shot Capabilities of Vision-Language Models](https://arxiv.org/abs/2209.06103)<br>:star:[code](https://github.com/felixVogel02/VL-Taboo/tree/main)
 * [Learning by Hallucinating: Vision-Language Pre-training with Weak Supervision](https://arxiv.org/abs/2210.13591)
+* [Perceiver-VL: Efficient Vision-and-Language Modeling with Iterative Latent Attention](https://arxiv.org/abs/2211.11701)<br>:star:[code](https://github.com/zinengtang/Perceiver_VL)
 
 <a name="55"/>
 
@@ -85,6 +86,8 @@
 ## 53.Gaze Estimation(视线估计)
 * iris localization(虹膜定位)
   * [Segmentation-free Direct Iris Localization Networks](https://arxiv.org/abs/2210.10403)
+* 视线跟随
+  * [Patch-level Gaze Distribution Prediction for Gaze Following](https://arxiv.org/abs/2211.11062)
 
 <a name="52"/>
 
