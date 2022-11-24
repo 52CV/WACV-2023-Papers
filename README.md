@@ -117,6 +117,7 @@
 <a name="46"/>
 
 ## 46.Metric Learning(度量学习)
+* [InDiReCT: Language-Guided Zero-Shot Deep Metric Learning for Images](https://arxiv.org/abs/2211.12760)<br>:star:[code](https://github.com/LSX-UniWue/InDiReCT)
 
 <a name="45"/>
 
