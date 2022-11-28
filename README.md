@@ -41,6 +41,9 @@
 * [Anticipative Feature Fusion Transformer for Multi-Modal Action Anticipation](https://arxiv.org/abs/2210.12649)<br>:star:[code](https://github.com/zeyun-zhong/AFFT)
 * [GliTr: Glimpse Transformers with Spatiotemporal Consistency for Online Action Prediction](https://arxiv.org/abs/2210.13605)
 
+##
+* [ScanNeRF: a Scalable Benchmark for Neural Radiance Fields]()
+
 ## Sound
 * Audio Visual Event Localization视听事件定位
   * [AVE-CLIP: AudioCLIP-based Multi-window Temporal Transformer for Audio Visual Event Localization](https://arxiv.org/abs/2210.05060)
@@ -414,6 +417,8 @@
   * [DyAnNet: A Scene Dynamicity Guided Self-Trained Video Anomaly Detection Network](https://arxiv.org/abs/2211.00882)
 * 图像视频编解码
   * [Universal Deep Image Compression via Content-Adaptive Optimization with Adapters](https://arxiv.org/abs/2211.00918)<br>:star:[code](https://github.com/kktsubota/universal-dic)
+* 视频人像合成
+  * [Dynamic Neural Portraits](https://arxiv.org/abs/2211.13994)
 
 <a name="5"/>
 
@@ -432,6 +437,7 @@
   * [Foreground Guidance and Multi-Layer Feature Fusion for Unsupervised Object Discovery with Transformers](https://arxiv.org/abs/2210.13053)<br>:star:[code](https://github.com/VDIGPKU/FORMULA)
 * 3D目标检测
   * [Li3DeTr: A LiDAR based 3D Detection Transformer](https://arxiv.org/abs/2210.15365)
+  * [Far3Det: Towards Far-Field 3D Detection](https://arxiv.org/abs/2211.13858)
 
 <a name="4"/>
 
@@ -459,7 +465,8 @@
   * [High-Quality RGB-D Reconstruction via Multi-View Uncalibrated Photometric Stereo and Gradient-SDF](https://arxiv.org/abs/2210.12202)<br>:star:[code](https://github.com/Sangluisme/PSgradientSDF)
 * Stereo Matching
   * [Expansion of Visual Hints for Improved Generalization in Stereo Matching](https://arxiv.org/abs/2211.00392)
-
+* 神经辐射场
+  * [ScanNeRF: a Scalable Benchmark for Neural Radiance Fields](https://arxiv.org/abs/2211.13762)<br>:house:[project](https://eyecan-ai.github.io/scannerf/)
 
 <a name="2"/>
 
