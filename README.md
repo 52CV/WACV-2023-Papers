@@ -41,8 +41,6 @@
 * [Anticipative Feature Fusion Transformer for Multi-Modal Action Anticipation](https://arxiv.org/abs/2210.12649)<br>:star:[code](https://github.com/zeyun-zhong/AFFT)
 * [GliTr: Glimpse Transformers with Spatiotemporal Consistency for Online Action Prediction](https://arxiv.org/abs/2210.13605)
 
-##
-* [ScanNeRF: a Scalable Benchmark for Neural Radiance Fields]()
 
 ## Sound
 * Audio Visual Event Localization视听事件定位
@@ -300,6 +298,8 @@
   * [Adaptively-Realistic Image Generation from Stroke and Sketch with Diffusion Model](https://arxiv.org/abs/2208.12675)<br>:star:[code](https://github.com/cyj407/DiSS):house:[project](https://cyj407.github.io/DiSS/)
 * 文本-图像合成
   * [Arbitrary Style Guidance for Enhanced Diffusion-Based Text-to-Image Generation](https://arxiv.org/abs/2211.07751)<br>:star:[code](https://github.com/openai/glide-text2im)
+* 文字引导的图像操作
+  * [Interactive Image Manipulation with Complex Text Instructions](https://arxiv.org/abs/2211.15352) 
  
 <a name="14"/>
 
