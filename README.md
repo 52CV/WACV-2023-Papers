@@ -394,6 +394,7 @@
 <a name="7"/>
 
 ## 7.Human Pose(人体姿态)
+* [Kinematic-aware Hierarchical Attention Network for Human Pose Estimation in Videos](https://arxiv.org/abs/2211.15868)<br>:star:[code](https://github.com/KyungMinJin/HANet)
 * 多人姿态估计
   * [SoMoFormer: Multi-Person Pose Forecasting with Transformers](https://arxiv.org/abs/2208.14023)<br>:house:[project](https://somof.stanford.edu/result/217/)
 * 三维人体
