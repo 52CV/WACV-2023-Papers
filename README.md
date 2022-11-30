@@ -254,6 +254,8 @@
   * [Overlap-guided Gaussian Mixture Models for Point Cloud Registration](https://arxiv.org/abs/2210.09836)<br>:star:[code](https://github.com/gfmei/ogmm)
 * 点云重建
   * [PointInverter: Point Cloud Reconstruction and Editing via a Generative Model with Shape Priors](https://arxiv.org/abs/2211.08702)<br>:star:[code](https://github.com/hkust-vgd/point_inverter)
+* 3D点云
+  * [PIDS: Joint Point Interaction-Dimension Search for 3D Point Cloud](https://arxiv.org/abs/2211.15759)
 
 <a name="20"/>
 
@@ -324,6 +326,8 @@
   * [X-Align: Cross-Modal Cross-View Alignment for Bird's-Eye-View Segmentation](https://arxiv.org/abs/2210.06778)<br>:star:[code](https://github.com/robot-learning-freiburg/PanopticBEV)
 * 全景分割
   * [MonoDVPS: A Self-Supervised Monocular Depth Estimation Approach to Depth-aware Video Panoptic Segmentation](https://arxiv.org/abs/2210.07577)
+* 实例分割
+  * [From Forks to Forceps: A New Framework for Instance Segmentation of Surgical Instruments](https://arxiv.org/abs/2211.16200)
 * 小样本分割
   * [Elimination of Non-Novel Segments at Multi-Scale for Few-Shot Segmentation](https://arxiv.org/abs/2211.02300)
 * 细胞分割
@@ -372,7 +376,8 @@
 <a name="9"/>
 
 ## 9.Remote Sensing\Satellite Image(遥感\卫星图像)
-
+* RS
+  * [Handling Image and Label Resolution Mismatch in Remote Sensing](https://arxiv.org/abs/2211.15790)
 
 <a name="8"/>
 
