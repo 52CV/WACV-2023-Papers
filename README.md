@@ -465,6 +465,8 @@
   * [Attention Attention Everywhere: Monocular Depth Prediction with Skip Attention](https://arxiv.org/abs/2210.09071)<br>:star:[code](https://github.com/ashutosh1807/PixelFormer)
   * [High-Resolution Depth Estimation for 360-degree Panoramas through Perspective and Panoramic Depth Images Registration](https://arxiv.org/abs/2210.10414)
   * [Improving Pixel-Level Contrastive Learning by Leveraging Exogenous Depth Information](https://arxiv.org/abs/2211.10177)
+* 深度补全
+  * [Sparsity Agnostic Depth Completion](https://arxiv.org/abs/2212.00790)
 * MVS
   * [Multi-View Photometric Stereo Revisited](https://arxiv.org/abs/2210.07670)
 * RGB-D重建
