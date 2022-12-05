@@ -15,7 +15,7 @@
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
 
-# :exclamation::exclamation::exclamation::star2::star2::star2:分类完成
+# :exclamation::exclamation::exclamation::star2::star2::star2:分类
 # 目录
 
 |:dog:|:mouse:|:hamster:|:tiger:|
@@ -437,6 +437,8 @@
 * OOD
   * [Out-of-distribution Detection via Frequency-regularized Generative Models](https://arxiv.org/abs/2208.09083)<br>:star:[code](https://github.com/mu-cai/FRL)
   * [Heatmap-based Out-of-Distribution Detection](https://arxiv.org/abs/2211.08115)<br>:star:[code](https://github.com/jhornauer/heatmap_ood)
+* WSOD
+  * [D2DF2WOD: Learning Object Proposals for Weakly-Supervised Object Detection via Progressive Domain Adaptation](https://arxiv.org/abs/2212.01376)
 * 伪装目标检测
   * [MFFN: Multi-view Feature Fusion Network for Camouflaged Object Detection](https://arxiv.org/abs/2210.06361)<br>:star:[code](https://github.com/dwardzheng/MFFN_COD)
 * 目标发现
@@ -444,6 +446,7 @@
 * 3D目标检测
   * [Li3DeTr: A LiDAR based 3D Detection Transformer](https://arxiv.org/abs/2210.15365)
   * [Far3Det: Towards Far-Field 3D Detection](https://arxiv.org/abs/2211.13858)
+
 
 <a name="4"/>
 
@@ -502,6 +505,7 @@
 * [LAVA: Label-efficient Visual Learning and Adaptation](https://arxiv.org/abs/2210.10317)
 * [Interpolated SelectionConv for Spherical Images and Surfaces](https://arxiv.org/abs/2210.10123)
 * [Augmentation by Counterfactual Explanation -- Fixing an Overconfident Classifier](https://arxiv.org/abs/2210.12196)
+* [Weakly Supervised Annotations for Multi-modal Greeting Cards Dataset](https://arxiv.org/abs/2212.00847)
 * BNN
   * [LAB: Learnable Activation Binarizer for Binary Neural Networks](https://arxiv.org/abs/2210.13858)<br>:star:[code](https://github.com/sfalkena/LAB)
 
