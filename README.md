@@ -196,6 +196,7 @@
 <a name="30"/>
 
 ## 30.Reinforcement Learning(强化学习)
+* [Switching to Discriminative Image Captioning by Relieving a Bottleneck of Reinforcement Learning](https://arxiv.org/abs/2212.03230)<br>:star:[code](https://github.com/ukyh/switchdisccaption)
 
 <a name="29"/>
 
@@ -309,6 +310,7 @@
 * 自监督
   * [Self-Supervised Pyramid Representation Learning for Multi-Label Visual Analysis and Beyond](https://arxiv.org/abs/2208.14439)<br>:star:[code](https://github.com/WesleyHsieh0806/SS-PRL)
   * [FUSSL: Fuzzy Uncertain Self Supervised Learning](https://arxiv.org/abs/2210.15818)
+  * [Self-Supervised Correspondence Estimation via Multiview Registration](https://arxiv.org/abs/2212.03236)<br>:house:[project](https://mbanani.github.io/syncmatch/)
 * 半监督
   * [Class-Level Confidence Based 3D Semi-Supervised Learning](https://arxiv.org/abs/2210.10138)
 
@@ -486,6 +488,8 @@
   * [Probabilistic Integration of Object Level Annotations in Chest X-ray Classification](https://arxiv.org/abs/2210.06980)
 * CT图像融合
   * [Self-Supervised 2D/3D Registration for X-Ray to CT Image Fusion](https://arxiv.org/abs/2210.07611)
+* 医学图像定位
+  * [Attend Who is Weak: Pruning-assisted Medical Image Localization under Sophisticated and Implicit Imbalances](https://arxiv.org/abs/2212.02675)
 
 <a name="1"/>
 
