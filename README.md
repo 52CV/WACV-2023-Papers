@@ -490,6 +490,8 @@
   * [Self-Supervised 2D/3D Registration for X-Ray to CT Image Fusion](https://arxiv.org/abs/2210.07611)
 * 医学图像定位
   * [Attend Who is Weak: Pruning-assisted Medical Image Localization under Sophisticated and Implicit Imbalances](https://arxiv.org/abs/2212.02675)
+* 医学图像分割
+  * [Few-shot Medical Image Segmentation with Cycle-resemblance Attention](https://arxiv.org/abs/2212.03967)
 
 <a name="1"/>
 
@@ -510,6 +512,7 @@
 * [Interpolated SelectionConv for Spherical Images and Surfaces](https://arxiv.org/abs/2210.10123)
 * [Augmentation by Counterfactual Explanation -- Fixing an Overconfident Classifier](https://arxiv.org/abs/2210.12196)
 * [Weakly Supervised Annotations for Multi-modal Greeting Cards Dataset](https://arxiv.org/abs/2212.00847)
+* [Multimodal Vision Transformers with Forced Attention for Behavior Analysis](https://arxiv.org/abs/2212.03968)<br>:star:[code](https://github.com/Parapompadoo/FAt-Transformers)
 * BNN
   * [LAB: Learnable Activation Binarizer for Binary Neural Networks](https://arxiv.org/abs/2210.13858)<br>:star:[code](https://github.com/sfalkena/LAB)
 
