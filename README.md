@@ -513,6 +513,7 @@
 * [Augmentation by Counterfactual Explanation -- Fixing an Overconfident Classifier](https://arxiv.org/abs/2210.12196)
 * [Weakly Supervised Annotations for Multi-modal Greeting Cards Dataset](https://arxiv.org/abs/2212.00847)
 * [Multimodal Vision Transformers with Forced Attention for Behavior Analysis](https://arxiv.org/abs/2212.03968)<br>:star:[code](https://github.com/Parapompadoo/FAt-Transformers)
+* [Physically Plausible Animation of Human Upper Body from a Single Image](https://arxiv.org/abs/2212.04741)
 * BNN
   * [LAB: Learnable Activation Binarizer for Binary Neural Networks](https://arxiv.org/abs/2210.13858)<br>:star:[code](https://github.com/sfalkena/LAB)
 
