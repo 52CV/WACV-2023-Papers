@@ -246,6 +246,7 @@
   * [Modality Mixer for Multi-modal Action Recognition](https://arxiv.org/abs/2208.11314)
   * [STAR-Transformer: A Spatio-temporal Cross Attention Transformer for Human Action Recognition](https://arxiv.org/abs/2210.07503)
   * [Holistic Interaction Transformer Network for Action Detection](https://arxiv.org/abs/2210.12686)<br>:star:[code](https://github.com/joslefaure/HIT)
+  * [Reconstructing Humpty Dumpty: Multi-feature Graph Autoencoder for Open Set Action Recognition](https://arxiv.org/abs/2212.06023)<br>:star:[code](https://github.com/Kitware/graphautoencoder)
 
 <a name="21"/>
 
