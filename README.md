@@ -424,6 +424,7 @@
   * [Language-free Training for Zero-shot Video Grounding](https://arxiv.org/abs/2210.12977)
 * 视频异常检测(VAD)
   * [DyAnNet: A Scene Dynamicity Guided Self-Trained Video Anomaly Detection Network](https://arxiv.org/abs/2211.00882)
+  * [Cross-Domain Video Anomaly Detection without Target Domain Adaptation](https://arxiv.org/abs/2212.07010)
 * 图像视频编解码
   * [Universal Deep Image Compression via Content-Adaptive Optimization with Adapters](https://arxiv.org/abs/2211.00918)<br>:star:[code](https://github.com/kktsubota/universal-dic)
 * 视频人像合成
@@ -475,6 +476,7 @@
   * [Sparsity Agnostic Depth Completion](https://arxiv.org/abs/2212.00790)
 * MVS
   * [Multi-View Photometric Stereo Revisited](https://arxiv.org/abs/2210.07670)
+  * [DELS-MVS: Deep Epipolar Line Search for Multi-View Stereo](https://arxiv.org/abs/2212.06626)
 * RGB-D重建
   * [High-Quality RGB-D Reconstruction via Multi-View Uncalibrated Photometric Stereo and Gradient-SDF](https://arxiv.org/abs/2210.12202)<br>:star:[code](https://github.com/Sangluisme/PSgradientSDF)
 * Stereo Matching
