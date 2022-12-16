@@ -324,6 +324,8 @@
   * [Domain Adaptive Video Semantic Segmentation via Cross-Domain Moving Object Mixing](https://arxiv.org/abs/2211.02307)
 * 语义分割
   * [Attribution-aware Weight Transfer: A Warm-Start Initialization for Class-Incremental Semantic Segmentation](https://arxiv.org/abs/2210.07207)<br>:star:[code](https://github.com/dfki-av/AWT-for-CISS)
+  * [Full Contextual Attention for Multi-resolution Transformers in Semantic Segmentation](https://arxiv.org/abs/2212.07890)
+  * [Urban Scene Semantic Segmentation with Low-Cost Coarse Annotation](https://arxiv.org/abs/2212.07911)
   * [LoopDA: Constructing Self-loops to Adapt Nighttime Semantic Segmentation](https://arxiv.org/abs/2211.11870)<br>:star:[code](https://github.com/fy-vision/LoopDA)
 * BEV segmentation
   * [X-Align: Cross-Modal Cross-View Alignment for Bird's-Eye-View Segmentation](https://arxiv.org/abs/2210.06778)<br>:star:[code](https://github.com/robot-learning-freiburg/PanopticBEV)
