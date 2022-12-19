@@ -345,6 +345,7 @@
   * [Reducing Annotation Effort by Identifying and Labeling Contextually Diverse Classes for Semantic Segmentation Under Domain Shift](https://arxiv.org/abs/2210.06749)<br>:star:[code](https://github.com/sharat29ag/contextual_class)
   * [Self-Distillation for Unsupervised 3D Domain Adaptation](https://arxiv.org/abs/2210.08226)<br>:house:[project](https://cvlab-unibo.github.io/FeatureDistillation/)
   * [CoNMix for Source-free Single and Multi-target Domain Adaptation](https://arxiv.org/abs/2211.03876)<br>:star:[code](https://github.com/vcl-iisc/CoNMix):house:[project](https://sites.google.com/view/conmix-vcl)
+  * [Learning Classifiers of Prototypes and Reciprocal Points for Universal Domain Adaptation](https://arxiv.org/abs/2212.08355)
 * 域泛化
   * [Intra-Source Style Augmentation for Improved Domain Generalization](https://arxiv.org/abs/2210.10175)
 
