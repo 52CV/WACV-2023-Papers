@@ -274,6 +274,7 @@
 ## 19.Model Compression\Knowledge Distillation\Pruning(模型压缩\知识蒸馏\剪枝)
 * 剪枝
   * [Pushing the Efficiency Limit Using Structured Sparse Convolutions](https://arxiv.org/abs/2210.12818)<br>:star:[code](https://github.com/vkvermaa/SSC)
+  * [Calibrating Deep Neural Networks using Explicit Regularisation and Dynamic Data Pruning](https://arxiv.org/abs/2212.10005)
 * 知识蒸馏
   * [Collaborative Multi-Teacher Knowledge Distillation for Learning Low Bit-width Deep Neural Networks](https://arxiv.org/abs/2210.16103)
   * [Understanding the Role of Mixup in Knowledge Distillation: \\An Empirical Study](https://arxiv.org/abs/2211.03946)<br>:star:[code](https://github.com/hchoi71/MIX-KD)
@@ -321,6 +322,7 @@
 <a name="13"/>
 
 ## 13.Image Segmentation(图像分割)
+* [Image Segmentation-based Unsupervised Multiple Objects Discovery](https://arxiv.org/abs/2212.10124)
 * VOS
   * [Unsupervised Video Object Segmentation via Prototype Memory Network](https://arxiv.org/abs/2209.03712)
 * VSS
@@ -387,7 +389,9 @@
 ## 9.Remote Sensing\Satellite Image(遥感\卫星图像)
 * RS
   * [Handling Image and Label Resolution Mismatch in Remote Sensing](https://arxiv.org/abs/2211.15790)
-
+* 变化检测
+  * [Self-Pair: Synthesizing Changes from Single Source for Object Change Detection in Remote Sensing Imagery](https://arxiv.org/abs/2212.10236)<br>:star:[code](https://github.com/seominseok0429/Self-Pair-for-Change-Detection)
+  
 <a name="8"/>
 
 ## 8.Image Processing(图像处理)
