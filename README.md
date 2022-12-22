@@ -316,6 +316,7 @@
   * [Self-Supervised Pyramid Representation Learning for Multi-Label Visual Analysis and Beyond](https://arxiv.org/abs/2208.14439)<br>:star:[code](https://github.com/WesleyHsieh0806/SS-PRL)
   * [FUSSL: Fuzzy Uncertain Self Supervised Learning](https://arxiv.org/abs/2210.15818)
   * [Self-Supervised Correspondence Estimation via Multiview Registration](https://arxiv.org/abs/2212.03236)<br>:house:[project](https://mbanani.github.io/syncmatch/)
+  * [Similarity Contrastive Estimation for Image and Video Soft Contrastive Self-Supervised Learning](https://arxiv.org/abs/2212.11187)
 * 半监督
   * [Class-Level Confidence Based 3D Semi-Supervised Learning](https://arxiv.org/abs/2210.10138)
 
