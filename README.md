@@ -2,6 +2,9 @@
 
 ## 历年综述论文分类汇总戳这里↘️[CV-Surveys](https://github.com/52CV/CV-Surveys)施工中~~~~~~~~~~
 
+## 2023 年论文分类汇总戳这里
+↘️[WACV-2023-Papers](https://github.com/52CV/WACV-2023-Papers/blob/main/README.md)
+
 ## 2022 年论文分类汇总戳这里
 ↘️[CVPR-2022-Papers](https://github.com/52CV/CVPR-2022-Papers)
 ↘️[WACV-2022-Papers](https://github.com/52CV/WACV-2022-Papers)
