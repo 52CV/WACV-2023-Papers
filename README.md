@@ -403,6 +403,7 @@
   * [Perceptual Image Enhancement for Smartphone Real-Time Applications](https://arxiv.org/abs/2210.13552)<br>:star:[code](https://github.com/mv-lab/AISP)
 * 图像着色
   * [Guiding Users to Where to Give Color Hints for Efficient Interactive Sketch Colorization via Unsupervised Region Prioritization](https://arxiv.org/abs/2210.14270)
+  * [Generative Colorization of Structured Mobile Web Pages](https://arxiv.org/abs/2212.11541)<br>:star:[code](https://github.com/CyberAgentAILab/webcolor)
 * HDR重构
   * [Single-Image HDR Reconstruction by Multi-Exposure Generation](https://arxiv.org/abs/2210.15897)<br>:star:[code](https://github.com/VinAIResearch/single_image_hdr)
   
