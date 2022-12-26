@@ -76,6 +76,8 @@
   * [Feature Disentanglement Learning with Switching and Aggregation for Video-based Person Re-Identification](https://arxiv.org/abs/2212.09498)
 * 步态识别
   * [Gait Recognition Using 3-D Human Body Shape Inference](https://arxiv.org/abs/2212.09042)
+* 嫌疑人识别
+  * [A Suspect Identification Framework using Contrastive Relevance Feedback](https://cdn.iiit.ac.in/cdn/precog.iiit.ac.in/pubs/WACV_2023_FaIRCoP_Camera_Ready.pdf)
 
 ## 57.Federated Learning(联邦学习)
 * [Learning Across Domains and Devices: Style-Driven Source-Free Domain Adaptation in Clustered Federated Learning](https://arxiv.org/abs/2210.02326)<br>:star:[code](https://github.com/Erosinho13/LADD)
@@ -168,6 +170,7 @@
 <a name="37"/>
 
 ## 37.Object Tracking(目标跟踪)
+* [Efficient Visual Tracking with Exemplar Transformers](https://arxiv.org/abs/2112.09686)<br>:star:[code](https://github.com/pblatter/ettrack)
 * 多目标跟踪
   * [AttTrack: Online Deep Attention Transfer for Multi-object Tracking](https://arxiv.org/abs/2210.08648)
 
@@ -188,6 +191,8 @@
 <a name="34"/>
 
 ## 34.SLAM\Robots
+* SLAM
+  * [Probabilistic Volumetric Fusion for Dense Monocular SLAM](https://arxiv.org/abs/2210.01276)
 
 <a name="33"/>
 
@@ -232,6 +237,7 @@
 
 ## 26.Dataset\Benchmark(数据集\基准)
 * [OpenEarthMap: A Benchmark Dataset for Global High-Resolution Land Cover Mapping](https://arxiv.org/abs/2210.10732)<br>:sunflower:[dataset](https://open-earth-map.org/)
+* [IDD-3D: A Dataset for Driving in Unstructured Road Scenes](https://arxiv.org/abs/2210.12878)<br>:sunflower:[dataset](https://github.com/shubham1810/idd3d_kit)
 
 <a name="25"/>
 
@@ -259,6 +265,8 @@
   * [STAR-Transformer: A Spatio-temporal Cross Attention Transformer for Human Action Recognition](https://arxiv.org/abs/2210.07503)
   * [Holistic Interaction Transformer Network for Action Detection](https://arxiv.org/abs/2210.12686)<br>:star:[code](https://github.com/joslefaure/HIT)
   * [Reconstructing Humpty Dumpty: Multi-feature Graph Autoencoder for Open Set Action Recognition](https://arxiv.org/abs/2212.06023)<br>:star:[code](https://github.com/Kitware/graphautoencoder)
+  * [DA-AIM: Exploiting Instance-based Mixed Sampling via Auxiliary Source Domain Supervision for Domain-adaptive Action Detection](https://arxiv.org/pdf/2209.15439.pdf)<br>:star:[code](https://github.com/wwwfan628/DA-AIM)
+  * [Spatio-Temporal Action Detection Under Large Motion](https://arxiv.org/pdf/2209.02250.pdf)<br>:star:[code](https://github.com/gurkirt/ActionTrackDetectron)
 
 <a name="21"/>
 
@@ -305,6 +313,7 @@
 
 ## 16.Super-Resolution(超分辨率)
 * [Single Image Super-Resolution via a Dual Interactive Implicit Neural Network](https://arxiv.org/abs/2210.12593)
+* [HIME: Efficient Headshot Image Super-Resolution with Multiple Exemplars](https://arxiv.org/abs/2203.14863)
 
 <a name="15"/>
 
@@ -388,6 +397,8 @@
   * [FAN-Trans: Online Knowledge Distillation for Facial Action Unit Detection](https://arxiv.org/abs/2211.06143) 
 * 人脸质量评估
   * [IFQA: Interpretable Face Quality Assessment](https://arxiv.org/abs/2211.07077)<br>:star:[code](https://github.com/VCLLab/IFQA) 
+* 基于表情的合成脸部皱纹
+  * [Mesh-Tension Driven Expression-Based Wrinkles for Synthetic Faces](https://arxiv.org/abs/2210.03529)
  
 <a name="10"/>
 
@@ -450,6 +461,8 @@
   * [Universal Deep Image Compression via Content-Adaptive Optimization with Adapters](https://arxiv.org/abs/2211.00918)<br>:star:[code](https://github.com/kktsubota/universal-dic)
 * 视频人像合成
   * [Dynamic Neural Portraits](https://arxiv.org/abs/2211.13994)
+* 视频帧插值
+  * [Splatting-based Synthesis for Video Frame Interpolation](https://arxiv.org/abs/2201.10075)<br>:house:[project](http://sniklaus.com/splatsyn)
 
 <a name="5"/>
 
@@ -471,7 +484,9 @@
 * 3D目标检测
   * [Li3DeTr: A LiDAR based 3D Detection Transformer](https://arxiv.org/abs/2210.15365)
   * [Far3Det: Towards Far-Field 3D Detection](https://arxiv.org/abs/2211.13858)
-
+  * [Dense Voxel Fusion for 3D Object Detection](https://arxiv.org/abs/2203.00871)
+* 变化检测
+  * [The Change You Want to See](https://arxiv.org/abs/2209.14341)
 
 <a name="4"/>
 
@@ -493,6 +508,7 @@
   * [Attention Attention Everywhere: Monocular Depth Prediction with Skip Attention](https://arxiv.org/abs/2210.09071)<br>:star:[code](https://github.com/ashutosh1807/PixelFormer)
   * [High-Resolution Depth Estimation for 360-degree Panoramas through Perspective and Panoramic Depth Images Registration](https://arxiv.org/abs/2210.10414)
   * [Improving Pixel-Level Contrastive Learning by Leveraging Exogenous Depth Information](https://arxiv.org/abs/2211.10177)
+  * [Temporally Consistent Online Depth Estimation in Dynamic Scenes](https://arxiv.org/abs/2111.09337)<br>:star:[code](https://github.com/facebookresearch/CODD)
 * 深度补全
   * [Sparsity Agnostic Depth Completion](https://arxiv.org/abs/2212.00790)
 * MVS
