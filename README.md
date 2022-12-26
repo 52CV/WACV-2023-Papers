@@ -1,5 +1,5 @@
 # 52CV-WACV-Papers
-![469c6797185d7c14eb859840ed9bb06](https://user-images.githubusercontent.com/62801906/209521508-4aae9350-5eb5-4ccd-90ba-a53f1140318e.jpg)
+![469c6797185d7c14eb859840ed9bb06](https://user-images.githubusercontent.com/62801906/209522296-cea08a9c-9f23-4ece-9093-69863b2e7027.jpg)
 
 官网链接：[https://eccv2022.ecva.net/](https://wacv2023.thecvf.com/home)
 
