@@ -1,14 +1,15 @@
 # 52CV-WACV-Papers
 ![469c6797185d7c14eb859840ed9bb06](https://user-images.githubusercontent.com/62801906/209522296-cea08a9c-9f23-4ece-9093-69863b2e7027.jpg)
 
-官网链接：[https://eccv2022.ecva.net/](https://wacv2023.thecvf.com/home)
+官网链接：[WACV 2023](https://wacv2023.thecvf.com/home)
 
 会议日期：2023年1月3日-1月7日
 
 ## 历年综述论文分类汇总戳这里↘️[CV-Surveys](https://github.com/52CV/CV-Surveys)施工中~~~~~~~~~~
 
 ## 2023 年论文分类汇总戳这里
-↘️[WACV-2023-Papers](https://github.com/52CV/WACV-2023-Papers/blob/main/README.md)
+↘️[CVPR-2023-Papers](https://github.com/52CV/CVPR-2023-Papers)
+↘️[WACV-2023-Papers](https://github.com/52CV/WACV-2023-Papers)
 
 ## 2022 年论文分类汇总戳这里
 ↘️[CVPR-2022-Papers](https://github.com/52CV/CVPR-2022-Papers)
@@ -475,6 +476,7 @@
 * OOD
   * [Out-of-distribution Detection via Frequency-regularized Generative Models](https://arxiv.org/abs/2208.09083)<br>:star:[code](https://github.com/mu-cai/FRL)
   * [Heatmap-based Out-of-Distribution Detection](https://arxiv.org/abs/2211.08115)<br>:star:[code](https://github.com/jhornauer/heatmap_ood)
+  * [Out-of-Distribution Detection with Reconstruction Error and Typicality-based Penalty](https://arxiv.org/abs/2212.12641)
 * WSOD
   * [D2DF2WOD: Learning Object Proposals for Weakly-Supervised Object Detection via Progressive Domain Adaptation](https://arxiv.org/abs/2212.01376)
 * 伪装目标检测
