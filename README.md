@@ -315,6 +315,8 @@
 ## 16.Super-Resolution(超分辨率)
 * [Single Image Super-Resolution via a Dual Interactive Implicit Neural Network](https://arxiv.org/abs/2210.12593)
 * [HIME: Efficient Headshot Image Super-Resolution with Multiple Exemplars](https://arxiv.org/abs/2203.14863)
+* 视频超分辨率
+  * [Cross-Resolution Flow Propagation for Foveated Video Super-Resolution](https://arxiv.org/abs/2212.13525)<br>:star:[code](https://github.com/eugenelet/CRFP)
 
 <a name="15"/>
 
