@@ -360,10 +360,13 @@
   * [MonoDVPS: A Self-Supervised Monocular Depth Estimation Approach to Depth-aware Video Panoptic Segmentation](https://arxiv.org/abs/2210.07577)
 * 实例分割
   * [From Forks to Forceps: A New Framework for Instance Segmentation of Surgical Instruments](https://arxiv.org/abs/2211.16200)
+  * [CellTranspose: Few-shot Domain Adaptation for Cellular Instance Segmentation](https://arxiv.org/abs/2212.14121)
 * 小样本分割
   * [Elimination of Non-Novel Segments at Multi-Scale for Few-Shot Segmentation](https://arxiv.org/abs/2211.02300)
 * 细胞分割
   * [Knowing What to Label for Few Shot Microscopy Image Cell Segmentation](https://arxiv.org/abs/2211.10244)<br>:star:[code](https://github.com/Yussef93/KnowWhatToLabel/)
+* 目标分割
+  * [Unsupervised 4D LiDAR Moving Object Segmentation in Stationary Settings with Multivariate Occupancy Time Series](https://arxiv.org/abs/2212.14750)
 
 <a name="12"/>
 
@@ -438,6 +441,7 @@
 * 三维人体
   * [Placing Human Animations into 3D Scenes by Learning Interaction- and Geometry-Driven Keyframes](https://arxiv.org/abs/2209.06314)
   * [Uplift and Upsample: Efficient 3D Human Pose Estimation with Uplifting Transformers](https://arxiv.org/abs/2210.06110)<br>:star:[code](https://github.com/goldbricklemon/uplift-upsample-3dhpe)
+  * [Learning 3D Human Pose Estimation from Dozens of Datasets using a Geometry-Aware Autoencoder to Bridge Between Skeleton Formats](https://arxiv.org/abs/2212.14474)<br>:house:[project](https://vision.rwth-aachen.de/wacv23sarandi)
 * 手部重建
   * [THOR-Net: End-to-end Graformer-based Realistic Two Hands and Object Reconstruction with Self-supervision](https://arxiv.org/abs/2210.13853)<br>:star:[code](https://github.com/ATAboukhadra/THOR-Net)
 * 手-物体姿势估计
@@ -489,6 +493,7 @@
   * [Li3DeTr: A LiDAR based 3D Detection Transformer](https://arxiv.org/abs/2210.15365)
   * [Far3Det: Towards Far-Field 3D Detection](https://arxiv.org/abs/2211.13858)
   * [Dense Voxel Fusion for 3D Object Detection](https://arxiv.org/abs/2203.00871)
+  * [MonoEdge: Monocular 3D Object Detection Using Local Perspectives](https://arxiv.org/pdf/2301.01802.pdf)
 * 变化检测
   * [The Change You Want to See](https://arxiv.org/abs/2209.14341)
 
