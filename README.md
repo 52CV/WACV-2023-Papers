@@ -64,6 +64,8 @@
 
 ## Image-to-Image Translation(图像-图像翻译)
 * [Panoptic-Aware Image-to-Image Translation](https://openaccess.thecvf.com/content/WACV2023/papers/Zhang_Panoptic-Aware_Image-to-Image_Translation_WACV_2023_paper.pdf)
+* 图像翻译
+  * [RIFT: Disentangled Unsupervised Image Translation via Restricted Information Flow](https://openaccess.thecvf.com/content/WACV2023/papers/Usman_RIFT_Disentangled_Unsupervised_Image_Translation_via_Restricted_Information_Flow_WACV_2023_paper.pdf)
 
 ## Human Motion Prediction(人类运动预测)
 * [Multi-view Tracking Using Weakly Supervised Human Motion Prediction](https://arxiv.org/abs/2210.10771)<br>:star:[code](https://github.com/cvlab-epfl/MVFlow)
@@ -119,6 +121,7 @@
 * [Weakly-Supervised Optical Flow Estimation for Time-of-Flight](https://arxiv.org/abs/2210.05298)
 * [Rebalancing Gradient To Improve Self-Supervised Co-Training of Depth, Odometry and Optical Flow Predictions](https://openaccess.thecvf.com/content/WACV2023/papers/Hariat_Rebalancing_Gradient_To_Improve_Self-Supervised_Co-Training_of_Depth_Odometry_and_WACV_2023_paper.pdf)<br>:star:[code](https://github.com/mhariat/CoopNet)
 * [DCVNet: Dilated Cost Volume Networks for Fast Optical Flow](https://openaccess.thecvf.com/content/WACV2023/papers/Jiang_DCVNet_Dilated_Cost_Volume_Networks_for_Fast_Optical_Flow_WACV_2023_paper.pdf)
+* [MFCFlow : A Motion Feature Compensated Multi-Frame Recurrent Network for Optical Flow Estimation](https://openaccess.thecvf.com/content/WACV2023/papers/Chen_MFCFlow_A_Motion_Feature_Compensated_Multi-Frame_Recurrent_Network_for_Optical_WACV_2023_paper.pdf)
 
 <a name="53"/>
 
@@ -260,6 +263,7 @@
 
 ## 33.View Synthesis(视图合成)
 * [Vision Transformer for NeRF-Based View Synthesis From a Single Input Image](https://openaccess.thecvf.com/content/WACV2023/papers/Lin_Vision_Transformer_for_NeRF-Based_View_Synthesis_From_a_Single_Input_WACV_2023_paper.pdf)
+* [Self-improving Multiplane-to-layer Images for Novel View Synthesis](https://openaccess.thecvf.com/content/WACV2023/papers/Solovev_Self-Improving_Multiplane-To-Layer_Images_for_Novel_View_Synthesis_WACV_2023_paper.pdf)<br>:house:[project](https://samsunglabs.github.io/MLI/)
 
 <a name="32"/>
 
@@ -396,6 +400,7 @@
 * 知识蒸馏
   * [Collaborative Multi-Teacher Knowledge Distillation for Learning Low Bit-width Deep Neural Networks](https://arxiv.org/abs/2210.16103)
   * [Understanding the Role of Mixup in Knowledge Distillation: \\An Empirical Study](https://arxiv.org/abs/2211.03946)<br>:star:[code](https://github.com/hchoi71/MIX-KD)
+  * [Understanding the Role of Mixup in Knowledge Distillation:An Empirical Study](https://openaccess.thecvf.com/content/WACV2023/papers/Choi_Understanding_the_Role_of_Mixup_in_Knowledge_Distillation_An_Empirical_WACV_2023_paper.pdf)<br>:star:[code](https://github.com/hchoi71/MIX-KD)
 * 自我蒸馏
   * [SSSD: Self-Supervised Self Distillation](https://openaccess.thecvf.com/content/WACV2023/papers/Chen_SSSD_Self-Supervised_Self_Distillation_WACV_2023_paper.pdf)
 
@@ -507,6 +512,7 @@
   * [Learning Classifiers of Prototypes and Reciprocal Points for Universal Domain Adaptation](https://arxiv.org/abs/2212.08355)
   * [Select, Label, and Mix: Learning Discriminative Invariant Feature Representations for Partial Domain Adaptation](https://openaccess.thecvf.com/content/WACV2023/papers/Sahoo_Select_Label_and_Mix_Learning_Discriminative_Invariant_Feature_Representations_for_WACV_2023_paper.pdf)<br>:house:[project](https://cvir.github.io/projects/slm)
   * [TVT: Transferable Vision Transformer for Unsupervised Domain Adaptation](https://openaccess.thecvf.com/content/WACV2023/papers/Yang_TVT_Transferable_Vision_Transformer_for_Unsupervised_Domain_Adaptation_WACV_2023_paper.pdf)<br>:star:[code](https://github.com/uta-smile/TVT)
+  * [Backprop Induced Feature Weighting for Adversarial Domain Adaptation with Iterative Label Distribution Alignment](https://openaccess.thecvf.com/content/WACV2023/papers/Westfechtel_Backprop_Induced_Feature_Weighting_for_Adversarial_Domain_Adaptation_With_Iterative_WACV_2023_paper.pdf)
 * 域泛化
   * [Intra-Source Style Augmentation for Improved Domain Generalization](https://arxiv.org/abs/2210.10175)
   * [Center-aware Adversarial Augmentation for Single Domain Generalization](https://openaccess.thecvf.com/content/WACV2023/papers/Chen_Center-Aware_Adversarial_Augmentation_for_Single_Domain_Generalization_WACV_2023_paper.pdf)
@@ -561,6 +567,7 @@
 * [Leveraging Local Patch Differences in Multi-Object Scenes for Generative Adversarial Attacks](https://arxiv.org/abs/2209.09883)
 * [Inducing Data Amplification Using Auxiliary Datasets in Adversarial Training](https://openaccess.thecvf.com/content/WACV2023/papers/Lee_Inducing_Data_Amplification_Using_Auxiliary_Datasets_in_Adversarial_Training_WACV_2023_paper.pdf)<br>:star:[code](https://github.com/Saehyung-Lee/BiaMAT)
 * [FLOAT: Fast Learnable Once-for-All Adversarial Training for Tunable Trade-off between Accuracy and Robustness](https://openaccess.thecvf.com/content/WACV2023/papers/Kundu_FLOAT_Fast_Learnable_Once-for-All_Adversarial_Training_for_Tunable_Trade-Off_Between_WACV_2023_paper.pdf)
+* [Adversarial robustness in discontinuous spaces via alternating sampling & descent](https://openaccess.thecvf.com/content/WACV2023/papers/Venkatesh_Adversarial_Robustness_in_Discontinuous_Spaces_via_Alternating_Sampling__Descent_WACV_2023_paper.pdf)
 
 <a name="9"/>
 
@@ -663,9 +670,11 @@
 * [ROMA: Run-Time Object Detection To Maximize Real-Time Accuracy](https://arxiv.org/abs/2210.16083)
 * [Towards Online Domain Adaptive Object Detection](https://openaccess.thecvf.com/content/WACV2023/papers/VS_Towards_Online_Domain_Adaptive_Object_Detection_WACV_2023_paper.pdf)<br>:star:[code](https://github.com/Vibashan/memXformer-online-da)
 * [MT-DETR: Robust End-to-end Multimodal Detection with Confidence Fusion](https://openaccess.thecvf.com/content/WACV2023/papers/Chu_MT-DETR_Robust_End-to-End_Multimodal_Detection_With_Confidence_Fusion_WACV_2023_paper.pdf)<br>:star:[code](https://github.com/Chushihyun/MT-DETR)
+* [Towards Few-Annotation Learning for Object Detection:Are Transformer-based Models More Efficient ?](https://openaccess.thecvf.com/content/WACV2023/papers/Bouniot_Towards_Few-Annotation_Learning_for_Object_Detection_Are_Transformer-Based_Models_More_WACV_2023_paper.pdf)
 * 3D目标检测
   * [TransPillars: Coarse-To-Fine Aggregation for Multi-Frame 3D Object Detection](https://openaccess.thecvf.com/content/WACV2023/papers/Luo_TransPillars_Coarse-To-Fine_Aggregation_for_Multi-Frame_3D_Object_Detection_WACV_2023_paper.pdf)
   * [Adaptive Feature Fusion for Cooperative Perception Using LiDAR Point Clouds](https://openaccess.thecvf.com/content/WACV2023/papers/Qiao_Adaptive_Feature_Fusion_for_Cooperative_Perception_Using_LiDAR_Point_Clouds_WACV_2023_paper.pdf)
+  * [ImpDet: Exploring Implicit Fields for 3D Object Detection](https://openaccess.thecvf.com/content/WACV2023/papers/Qian_ImpDet_Exploring_Implicit_Fields_for_3D_Object_Detection_WACV_2023_paper.pdf)
 * VOD
   * [BoxMask: Revisiting Bounding Box Supervision for Video Object Detection](https://arxiv.org/abs/2210.06008)
 * OOD
@@ -802,6 +811,7 @@
 * [RANCER: Non-Axis Aligned Anisotropic Certification with Randomized Smoothing](https://openaccess.thecvf.com/content/WACV2023/papers/Rumezhak_RANCER_Non-Axis_Aligned_Anisotropic_Certification_With_Randomized_Smoothing_WACV_2023_paper.pdf)
 * [Match Cutting: Finding Cuts with Smooth Visual Transitions](https://openaccess.thecvf.com/content/WACV2023/papers/Chen_Match_Cutting_Finding_Cuts_With_Smooth_Visual_Transitions_WACV_2023_paper.pdf)
 * [Are Straight-Through gradients and Soft-Thresholding all you need for Sparse Training?](https://openaccess.thecvf.com/content/WACV2023/papers/Vanderschueren_Are_Straight-Through_Gradients_and_Soft-Thresholding_All_You_Need_for_Sparse_WACV_2023_paper.pdf)<br>:star:[code](https://github.com/vanderschuea/stthree)
+* [Mapping DNN Embedding Manifolds for Network Generalization Prediction](https://openaccess.thecvf.com/content/WACV2023/papers/OBrien_Mapping_DNN_Embedding_Manifolds_for_Network_Generalization_Prediction_WACV_2023_paper.pdf)
 * BNN
   * [LAB: Learnable Activation Binarizer for Binary Neural Networks](https://arxiv.org/abs/2210.13858)<br>:star:[code](https://github.com/sfalkena/LAB)
 * 图像配准
