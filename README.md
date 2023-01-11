@@ -46,6 +46,11 @@
 |[1.其它](#1)|[2.Medical Image(医学影像)](#2)|[3.3D(三维视觉)](#3)|[4.GAN(生成对抗网络)](#4)|
 
 
+## Open Set Recognition
+* [Ancestor Search: Generalized Open Set Recognition via Hyperbolic Side Information Learning](https://openaccess.thecvf.com/content/WACV2023/papers/Dengxiong_Ancestor_Search_Generalized_Open_Set_Recognition_via_Hyperbolic_Side_Information_WACV_2023_paper.pdf)
+## Visual Odometry(视觉里程计)
+* [Pixel-Wise Prediction Based Visual Odometry via Uncertainty Estimation](https://openaccess.thecvf.com/content/WACV2023/papers/Chen_Pixel-Wise_Prediction_Based_Visual_Odometry_via_Uncertainty_Estimation_WACV_2023_paper.pdf)
+
 ## 合成说话头
 * 唇语阅读
   * [Towards MOOCs for Lipreading: Using Synthetic Talking Heads to Train Humans in Lipreading at Scale](https://openaccess.thecvf.com/content/WACV2023/papers/Agarwal_Towards_MOOCs_for_Lipreading_Using_Synthetic_Talking_Heads_To_Train_WACV_2023_paper.pdf)
@@ -59,8 +64,10 @@
 * [Ev-NeRF: Event Based Neural Radiance Field](https://openaccess.thecvf.com/content/WACV2023/papers/Li_Jointly_Learning_Band_Selection_and_Filter_Array_Design_for_Hyperspectral_WACV_2023_paper.pdf)
 * [DDNeRF: Depth Distribution Neural Radiance Fields](https://openaccess.thecvf.com/content/WACV2023/papers/Dadon_DDNeRF_Depth_Distribution_Neural_Radiance_Fields_WACV_2023_paper.pdf)
 * [X-NeRF: Explicit Neural Radiance Field for Multi-Scene 360deg Insufficient RGB-D Views](https://openaccess.thecvf.com/content/WACV2023/papers/Zhu_X-NeRF_Explicit_Neural_Radiance_Field_for_Multi-Scene_360deg_Insufficient_RGB-D_WACV_2023_paper.pdf)<br>:star:[code](https://github.com/HaoyiZhu/XNeRF)
+* [Fast Differentiable Transient Rendering for Non-Line-of-Sight Reconstruction](https://openaccess.thecvf.com/content/WACV2023/papers/Plack_Fast_Differentiable_Transient_Rendering_for_Non-Line-of-Sight_Reconstruction_WACV_2023_paper.pdf)<br>:star:[code](https://github.com/unlikelymaths/totrilib)
 
 ##  geo-localization(城市地理定位)
+* [TransVLAD: Multi-Scale Attention-Based Global Descriptors for Visual Geo-Localization](https://openaccess.thecvf.com/content/WACV2023/papers/Xu_TransVLAD_Multi-Scale_Attention-Based_Global_Descriptors_for_Visual_Geo-Localization_WACV_2023_paper.pdf)<br>:star:[code](https://github.com/wacv-23/TVLAD)
 
 ## Image-to-Image Translation(图像-图像翻译)
 * [Panoptic-Aware Image-to-Image Translation](https://openaccess.thecvf.com/content/WACV2023/papers/Zhang_Panoptic-Aware_Image-to-Image_Translation_WACV_2023_paper.pdf)
@@ -130,6 +137,8 @@
   * [Segmentation-free Direct Iris Localization Networks](https://arxiv.org/abs/2210.10403)
 * 视线跟随
   * [Patch-level Gaze Distribution Prediction for Gaze Following](https://arxiv.org/abs/2211.11062)
+* 视线重定向
+  * [Fine Gaze Redirection Learning with Gaze Hardness-aware Transformation](https://openaccess.thecvf.com/content/WACV2023/papers/Park_Fine_Gaze_Redirection_Learning_With_Gaze_Hardness-Aware_Transformation_WACV_2023_paper.pdf)<br>:star:[code](https://github.com/san9569/Gaze-Redir-Learning)
 
 <a name="52"/>
 
@@ -152,6 +161,7 @@
 ## 48.Light Fields(光场)
 * 相机
   * [Event-based RGB sensing with structured light](https://openaccess.thecvf.com/content/WACV2023/papers/Bajestani_Event-Based_RGB_Sensing_With_Structured_Light_WACV_2023_paper.pdf)<br>:star:[code](https://github.com/MISTLab/event_based_rgbd_ros)
+  * [Burst Vision Using Single-Photon Cameras](https://openaccess.thecvf.com/content/WACV2023/papers/Ma_Burst_Vision_Using_Single-Photon_Cameras_WACV_2023_paper.pdf)
 * 兴趣点检测
   * [EventPoint: Self-Supervised Interest Point Detection and Description for Event-Based Camera](https://openaccess.thecvf.com/content/WACV2023/papers/Huang_EventPoint_Self-Supervised_Interest_Point_Detection_and_Description_for_Event-Based_Camera_WACV_2023_paper.pdf)
 
@@ -246,6 +256,7 @@
 * [DRAMA: Joint Risk Localization and Captioning in Driving](https://arxiv.org/abs/2209.10767)
 * [VLC-BERT: Visual Question Answering with Contextualized Commonsense Knowledge](https://arxiv.org/abs/2210.13626)<br>:star:[code](https://github.com/aditya10/VLC-BERT)
 * [How To Practice VQA on a Resource-Limited Target Domain](https://openaccess.thecvf.com/content/WACV2023/papers/Zhang_How_To_Practice_VQA_on_a_Resource-Limited_Target_Domain_WACV_2023_paper.pdf)<br>:house:[project](https://people.cs.pitt.edu/~mzhang/practice-vqa/)
+* [Guiding Visual Question Answering With Attention Priors](https://openaccess.thecvf.com/content/WACV2023/papers/Le_Guiding_Visual_Question_Answering_With_Attention_Priors_WACV_2023_paper.pdf)
 * VideoQA
   * [Dense but Efficient VideoQA for Intricate Compositional Reasoning](https://arxiv.org/abs/2210.10300)
 * 视觉问题生成
@@ -290,6 +301,7 @@
 * [Wavelength-Aware 2D Convolutions for Hyperspectral Imaging](https://openaccess.thecvf.com/content/WACV2023/papers/Varga_Wavelength-Aware_2D_Convolutions_for_Hyperspectral_Imaging_WACV_2023_paper.pdf)<br>:star:[code](https://github.com/cogsys-tuebingen/hyve_conv)
 * [ML-Decoder: Scalable and Versatile Classification Head](https://openaccess.thecvf.com/content/WACV2023/papers/Ridnik_ML-Decoder_Scalable_and_Versatile_Classification_Head_WACV_2023_paper.pdf)
 * [CNN2Graph: Building Graphs for Image Classification](https://openaccess.thecvf.com/content/WACV2023/papers/Trivedy_CNN2Graph_Building_Graphs_for_Image_Classification_WACV_2023_paper.pdf)
+* [Token Pooling in Vision Transformers for Image Classification](https://openaccess.thecvf.com/content/WACV2023/papers/Marin_Token_Pooling_in_Vision_Transformers_for_Image_Classification_WACV_2023_paper.pdf)
 * 长尾识别
   * [Difficulty-Net: Learning to Predict Difficulty for Long-Tailed Recognition](https://arxiv.org/abs/2209.02960)
 * pen-Set Classification
@@ -300,6 +312,7 @@
   * [Spatial Consistency Loss for Training Multi-Label Classifiers From Single-Label Annotations](https://openaccess.thecvf.com/content/WACV2023/papers/Verelst_Spatial_Consistency_Loss_for_Training_Multi-Label_Classifiers_From_Single-Label_Annotations_WACV_2023_paper.pdf)
 * 小样本分类
   * [Contrastive Knowledge-Augmented Meta-Learning for Few-Shot Classification](https://openaccess.thecvf.com/content/WACV2023/papers/Subramanyam_Contrastive_Knowledge-Augmented_Meta-Learning_for_Few-Shot_Classification_WACV_2023_paper.pdf)<br>:star:[code](https://github.com/Rakshith-2905/CAML) 
+  * [CORL: Compositional Representation Learning for Few-Shot Classification](https://openaccess.thecvf.com/content/WACV2023/papers/He_CORL_Compositional_Representation_Learning_for_Few-Shot_Classification_WACV_2023_paper.pdf)
  
 <a name="28"/>
 
@@ -346,6 +359,8 @@
 ## 23.Autonomous Driving(智能驾驶)
 * [IDD-3D: Indian Driving Dataset for 3D Unstructured Road Scenes](https://arxiv.org/abs/2210.12878)<br>:star:[code](https://github.com/shubham1810/idd3d_kit)
 * [PP4AV: A Benchmarking Dataset for Privacy-Preserving Autonomous Driving](https://openaccess.thecvf.com/content/WACV2023/papers/Trinh_PP4AV_A_Benchmarking_Dataset_for_Privacy-Preserving_Autonomous_Driving_WACV_2023_paper.pdf)<br>:star:[code](https://github.com/khaclinh/pp4av)
+* 车辆重识别
+  * [Relation Preserving Triplet Mining for Stabilising the Triplet Loss In re-Identification Systems](https://openaccess.thecvf.com/content/WACV2023/papers/Ghosh_Relation_Preserving_Triplet_Mining_for_Stabilising_the_Triplet_Loss_In_WACV_2023_paper.pdf)<br>:star:[code](https://github.com/adhirajghosh/RPTM_reid)
 
 <a name="22"/>
 
@@ -364,6 +379,7 @@
   * [Multi-View Action Recognition using Contrastive Learning](https://openaccess.thecvf.com/content/WACV2023/papers/Shah_Multi-View_Action_Recognition_Using_Contrastive_Learning_WACV_2023_paper.pdf)<br>:star:[code](https://github.com/kshah33/ViewCon)
 * 时序动作定位
   * [Temporal Feature Enhancement Dilated Convolution Network for Weakly-Supervised Temporal Action Localization](https://openaccess.thecvf.com/content/WACV2023/papers/Zhou_Temporal_Feature_Enhancement_Dilated_Convolution_Network_for_Weakly-Supervised_Temporal_Action_WACV_2023_paper.pdf)
+  * [Action-aware Masking Network with Group-based Attention for Temporal Action Localization](https://openaccess.thecvf.com/content/WACV2023/papers/Kang_Action-Aware_Masking_Network_With_Group-Based_Attention_for_Temporal_Action_Localization_WACV_2023_paper.pdf)
 
 <a name="21"/>
 
@@ -419,7 +435,9 @@
   * [Seq-UPS: Sequential Uncertainty-aware Pseudo-label Selection for Semi-Supervised Text Recognition](https://arxiv.org/abs/2209.00641)
 * 表格检测
   * [LayerDoc: Layer-Wise Extraction of Spatial Hierarchical Structure in Visually-Rich Documents](https://openaccess.thecvf.com/content/WACV2023/papers/Mathur_LayerDoc_Layer-Wise_Extraction_of_Spatial_Hierarchical_Structure_in_Visually-Rich_Documents_WACV_2023_paper.pdf)
-  
+* LOGO检测
+  * [Image-Text Pre-Training for Logo Recognition](https://openaccess.thecvf.com/content/WACV2023/papers/Hubenthal_Image-Text_Pre-Training_for_Logo_Recognition_WACV_2023_paper.pdf)
+
 <a name="16"/>
 
 ## 16.Super-Resolution(超分辨率)
@@ -474,6 +492,7 @@
   * [Urban Scene Semantic Segmentation with Low-Cost Coarse Annotation](https://arxiv.org/abs/2212.07911)
   * [LoopDA: Constructing Self-loops to Adapt Nighttime Semantic Segmentation](https://arxiv.org/abs/2211.11870)<br>:star:[code](https://github.com/fy-vision/LoopDA)
   * [Empirical Generalization Study: Unsupervised Domain Adaptation vs. Domain Generalization Methods for Semantic Segmentation in the Wild](https://openaccess.thecvf.com/content/WACV2023/papers/Piva_Empirical_Generalization_Study_Unsupervised_Domain_Adaptation_vs._Domain_Generalization_Methods_WACV_2023_paper.pdf)
+  * [Cooperative Self-Training for Multi-Target Adaptive Semantic Segmentation](https://openaccess.thecvf.com/content/WACV2023/papers/Zhang_Cooperative_Self-Training_for_Multi-Target_Adaptive_Semantic_Segmentation_WACV_2023_paper.pdf)<br>:star:[code](https://github.com/Mael-zys/CoaST)
   * [Refign: Align and Refine for Adaptation of Semantic Segmentation to Adverse Conditions](https://openaccess.thecvf.com/content/WACV2023/papers/Bruggemann_Refign_Align_and_Refine_for_Adaptation_of_Semantic_Segmentation_to_WACV_2023_paper.pdf)<br>:star:[code](https://github.com/brdav/refign)
   * [BEVSegFormer: Bird's Eye View Semantic Segmentation From Arbitrary Camera Rigs](https://openaccess.thecvf.com/content/WACV2023/papers/Peng_BEVSegFormer_Birds_Eye_View_Semantic_Segmentation_From_Arbitrary_Camera_Rigs_WACV_2023_paper.pdf)
   * 半监督语义分割
@@ -579,6 +598,8 @@
   * [Self-Pair: Synthesizing Changes from Single Source for Object Change Detection in Remote Sensing Imagery](https://arxiv.org/abs/2212.10236)<br>:star:[code](https://github.com/seominseok0429/Self-Pair-for-Change-Detection)
 * 航空图像检测
   * [ARUBA: An Architecture-Agnostic Balanced Loss for Aerial Object Detection](https://openaccess.thecvf.com/content/WACV2023/papers/Sairam_ARUBA_An_Architecture-Agnostic_Balanced_Loss_for_Aerial_Object_Detection_WACV_2023_paper.pdf)
+* 航空图像分割
+  * [Semantic Segmentation in Aerial Imagery Using Multi-level Contrastive Learning with Local Consistency](https://openaccess.thecvf.com/content/WACV2023/papers/Tang_Semantic_Segmentation_in_Aerial_Imagery_Using_Multi-Level_Contrastive_Learning_With_WACV_2023_paper.pdf)
 
 <a name="8"/>
 
@@ -606,7 +627,8 @@
 * 去雾
   * [Aerial Image Dehazing With Attentive Deformable Transformers](https://openaccess.thecvf.com/content/WACV2023/papers/Kulkarni_Aerial_Image_Dehazing_With_Attentive_Deformable_Transformers_WACV_2023_paper.pdf)<br>:star:[code](https://github.com/AshutoshKulkarni4998/AIDTransformer)
  * 阴影消除
-   * [Fine-Context Shadow Detection Using Shadow Removal](https://openaccess.thecvf.com/content/WACV2023/papers/Valanarasu_Fine-Context_Shadow_Detection_Using_Shadow_Removal_WACV_2023_paper.pdf)  
+   * [Fine-Context Shadow Detection Using Shadow Removal](https://openaccess.thecvf.com/content/WACV2023/papers/Valanarasu_Fine-Context_Shadow_Detection_Using_Shadow_Removal_WACV_2023_paper.pdf) 
+   * [LRA&LDRA: Rethinking Residual Predictions for Efficient Shadow Detection and Removal](https://openaccess.thecvf.com/content/WACV2023/papers/Yucel_LRALDRA_Rethinking_Residual_Predictions_for_Efficient_Shadow_Detection_and_Removal_WACV_2023_paper.pdf) 
    
 <a name="7"/>
 
@@ -632,6 +654,7 @@
 <a name="6"/>
 
 ## 6.Video(视频相关)
+* [A Deep Neural Framework to Detect Individual Advertisement (Ad) from Videos](https://openaccess.thecvf.com/content/WACV2023/papers/Liu_A_Deep_Neural_Framework_To_Detect_Individual_Advertisement_Ad_From_WACV_2023_paper.pdf)
 * 视频增强
   * [Fast and Accurate: Video Enhancement Using Sparse Depth](https://openaccess.thecvf.com/content/WACV2023/papers/Feng_Fast_and_Accurate_Video_Enhancement_Using_Sparse_Depth_WACV_2023_paper.pdf)
 * 视频理解
@@ -651,15 +674,21 @@
   * [Cross-Domain Video Anomaly Detection without Target Domain Adaptation](https://arxiv.org/abs/2212.07010)
   * [Bi-Directional Frame Interpolation for Unsupervised Video Anomaly Detection](https://openaccess.thecvf.com/content/WACV2023/papers/Deng_Bi-Directional_Frame_Interpolation_for_Unsupervised_Video_Anomaly_Detection_WACV_2023_paper.pdf)
   * [Towards Interpretable Video Anomaly Detection](https://openaccess.thecvf.com/content/WACV2023/papers/Doshi_Towards_Interpretable_Video_Anomaly_Detection_WACV_2023_paper.pdf)
+  * [Normality Guided Multiple Instance Learning for Weakly Supervised Video Anomaly Detection](https://openaccess.thecvf.com/content/WACV2023/papers/Park_Normality_Guided_Multiple_Instance_Learning_for_Weakly_Supervised_Video_Anomaly_WACV_2023_paper.pdf)
 * 图像视频编解码
   * [Universal Deep Image Compression via Content-Adaptive Optimization with Adapters](https://arxiv.org/abs/2211.00918)<br>:star:[code](https://github.com/kktsubota/universal-dic)
   * [Boosting Neural Video Codecs by Exploiting Hierarchical Redundancy](https://openaccess.thecvf.com/content/WACV2023/papers/Pourreza_Boosting_Neural_Video_Codecs_by_Exploiting_Hierarchical_Redundancy_WACV_2023_paper.pdf)
+  * [Neural Distributed Image Compression with Cross-Attention Feature Alignment](https://openaccess.thecvf.com/content/WACV2023/papers/Mital_Neural_Distributed_Image_Compression_With_Cross-Attention_Feature_Alignment_WACV_2023_paper.pdf)<br>:star:[code](https://github.com/ipc-lab/NDIC-CAM)
 * 视频人像合成
   * [Dynamic Neural Portraits](https://arxiv.org/abs/2211.13994)
 * 视频帧插值
   * [Splatting-based Synthesis for Video Frame Interpolation](https://arxiv.org/abs/2201.10075)<br>:house:[project](http://sniklaus.com/splatsyn)
 * 视频运动重定位
   * [Cross-Identity Video Motion Retargeting With Joint Transformation and Synthesis](https://openaccess.thecvf.com/content/WACV2023/papers/Ni_Cross-Identity_Video_Motion_Retargeting_With_Joint_Transformation_and_Synthesis_WACV_2023_paper.pdf)<br>:star:[code](https://github.com/nihaomiao/WACV23_TSNet)
+* 视频运动放大
+  * [Lightweight Network For Video Motion Magnification](https://openaccess.thecvf.com/content/WACV2023/papers/Singh_Lightweight_Network_for_Video_Motion_Magnification_WACV_2023_paper.pdf)<br>:star:[code](https://github.com/jasdeep-singh-007/LightweightNetworkForVideoMotionMagnification)
+* 视频稳定
+  * [GlobalFlowNet: Video Stabilization using Deep Distilled Global Motion Estimates](https://openaccess.thecvf.com/content/WACV2023/papers/James_GlobalFlowNet_Video_Stabilization_Using_Deep_Distilled_Global_Motion_Estimates_WACV_2023_paper.pdf)<br>:star:[code](https://github.com/GlobalFlowNet/GlobalFlowNet)
 
 <a name="5"/>
 
@@ -693,6 +722,7 @@
   * [Far3Det: Towards Far-Field 3D Detection](https://arxiv.org/abs/2211.13858)
   * [Dense Voxel Fusion for 3D Object Detection](https://arxiv.org/abs/2203.00871)
   * [MonoEdge: Monocular 3D Object Detection Using Local Perspectives](https://arxiv.org/pdf/2301.01802.pdf)
+  * [Multivariate Probabilistic Monocular 3D Object Detection](https://openaccess.thecvf.com/content/WACV2023/papers/Shi_Multivariate_Probabilistic_Monocular_3D_Object_Detection_WACV_2023_paper.pdf)<br>:star:[code](https://github.com/Rock-100/MonoDet)
 * 变化检测
   * [The Change You Want to See](https://arxiv.org/abs/2209.14341)
 * 用于穿行式安检系统的三维雷达图像的实时隐蔽武器检测
@@ -708,6 +738,7 @@
 * [Image Completion with Heterogeneously Filtered Spectral Hints](https://arxiv.org/abs/2211.03700)<br>:star:[code](https://github.com/SHI-Labs/SH-GAN)
 * [Indirect Adversarial Losses via an Intermediate Distribution for Training GANs](https://openaccess.thecvf.com/content/WACV2023/papers/Yang_Indirect_Adversarial_Losses_via_an_Intermediate_Distribution_for_Training_GANs_WACV_2023_paper.pdf)
 * [SLI-pSp: Injecting Multi-Scale Spatial Layout in pSp](https://openaccess.thecvf.com/content/WACV2023/papers/Mathur_SLI-pSp_Injecting_Multi-Scale_Spatial_Layout_in_pSp_WACV_2023_paper.pdf)
+* [Fantastic Style Channels and Where to Find Them:A Submodular Framework for Discovering Diverse Directions in GANs](https://openaccess.thecvf.com/content/WACV2023/papers/Simsar_Fantastic_Style_Channels_and_Where_To_Find_Them_A_Submodular_WACV_2023_paper.pdf)
 * fashion attribute editing(时尚属性编辑)
   * [Leveraging Off-the-shelf Diffusion Model for Multi-attribute Fashion Image Manipulation](https://arxiv.org/abs/2210.05872)
 * 匿名化
@@ -733,6 +764,7 @@
   * [Improving Pixel-Level Contrastive Learning by Leveraging Exogenous Depth Information](https://arxiv.org/abs/2211.10177)
   * [Temporally Consistent Online Depth Estimation in Dynamic Scenes](https://arxiv.org/abs/2111.09337)<br>:star:[code](https://github.com/facebookresearch/CODD)
   * [Self-Supervised Monocular Depth Estimation: Solving the Edge-Fattening Problem](https://openaccess.thecvf.com/content/WACV2023/papers/Chen_Self-Supervised_Monocular_Depth_Estimation_Solving_the_Edge-Fattening_Problem_WACV_2023_paper.pdf)<br>:star:[code](https://github.com/xingyuuchen/tri-depth)
+  * [High-Resolution Depth Estimation for 360◦ Panoramas through Perspective and Panoramic Depth Images Registration](https://openaccess.thecvf.com/content/WACV2023/papers/Peng_High-Resolution_Depth_Estimation_for_360deg_Panoramas_Through_Perspective_and_Panoramic_WACV_2023_paper.pdf)
 * 深度补全
   * [Sparsity Agnostic Depth Completion](https://arxiv.org/abs/2212.00790)
   * [SIUNet: Sparsity Invariant U-Net for Edge-Aware Depth Completion](https://openaccess.thecvf.com/content/WACV2023/papers/Ramesh_SIUNet_Sparsity_Invariant_U-Net_for_Edge-Aware_Depth_Completion_WACV_2023_paper.pdf)
@@ -770,6 +802,8 @@
   * [ScoreNet: Learning Non-Uniform Attention and Augmentation for Transformer-Based Histopathological Image Classification](https://openaccess.thecvf.com/content/WACV2023/papers/Stegmuller_ScoreNet_Learning_Non-Uniform_Attention_and_Augmentation_for_Transformer-Based_Histopathological_Image_WACV_2023_paper.pdf)<br>:star:[code](https://github.com/stegmuel/ScoreNet)
 * 医学图像超分辨率
   * [Multimodal Multi-Head Convolutional Attention With Various Kernel Sizes for Medical Image Super-Resolution](https://openaccess.thecvf.com/content/WACV2023/papers/Georgescu_Multimodal_Multi-Head_Convolutional_Attention_With_Various_Kernel_Sizes_for_Medical_WACV_2023_paper.pdf)<br>:star:[code](https://github.com/lilygeorgescu/MHCA)
+* 心血管检测
+  * [Performer: A Novel PPG-to-ECG Reconstruction Transformer for a Digital Biomarker of Cardiovascular Disease Detection](https://openaccess.thecvf.com/content/WACV2023/papers/Lan_Performer_A_Novel_PPG-to-ECG_Reconstruction_Transformer_for_a_Digital_Biomarker_WACV_2023_paper.pdf)
 
 <a name="1"/>
 
@@ -811,6 +845,9 @@
 * [RANCER: Non-Axis Aligned Anisotropic Certification with Randomized Smoothing](https://openaccess.thecvf.com/content/WACV2023/papers/Rumezhak_RANCER_Non-Axis_Aligned_Anisotropic_Certification_With_Randomized_Smoothing_WACV_2023_paper.pdf)
 * [Match Cutting: Finding Cuts with Smooth Visual Transitions](https://openaccess.thecvf.com/content/WACV2023/papers/Chen_Match_Cutting_Finding_Cuts_With_Smooth_Visual_Transitions_WACV_2023_paper.pdf)
 * [Are Straight-Through gradients and Soft-Thresholding all you need for Sparse Training?](https://openaccess.thecvf.com/content/WACV2023/papers/Vanderschueren_Are_Straight-Through_Gradients_and_Soft-Thresholding_All_You_Need_for_Sparse_WACV_2023_paper.pdf)<br>:star:[code](https://github.com/vanderschuea/stthree)
+* [Patch-based Privacy Preserving Neural Network for Vision Tasks](https://openaccess.thecvf.com/content/WACV2023/papers/Mabuchi_Patch-Based_Privacy_Preserving_Neural_Network_for_Vision_Tasks_WACV_2023_paper.pdf)
+* [Adaptive Sample Selection for Robust Learning under Label Noise](https://openaccess.thecvf.com/content/WACV2023/papers/Patel_Adaptive_Sample_Selection_for_Robust_Learning_Under_Label_Noise_WACV_2023_paper.pdf)<br>:star:[code](https://github.com/dbp1994/masters_thesis_codes/tree/main/BARE)
+* [Improving Saliency Models' Predictions of the Next Fixation With Humans' Intrinsic Cost of Gaze Shifts](https://openaccess.thecvf.com/content/WACV2023/papers/Kadner_Improving_Saliency_Models_Predictions_of_the_Next_Fixation_With_Humans_WACV_2023_paper.pdf)
 * [Mapping DNN Embedding Manifolds for Network Generalization Prediction](https://openaccess.thecvf.com/content/WACV2023/papers/OBrien_Mapping_DNN_Embedding_Manifolds_for_Network_Generalization_Prediction_WACV_2023_paper.pdf)
 * BNN
   * [LAB: Learnable Activation Binarizer for Binary Neural Networks](https://arxiv.org/abs/2210.13858)<br>:star:[code](https://github.com/sfalkena/LAB)
