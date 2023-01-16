@@ -34,7 +34,7 @@
 |[61.geo-localization(城市地理定位)](#61)|[62.Dense Prediction(密集预测)](#62)|[63.Place Recognition(位置识别)](#63)|[64.Visual Odometry(视觉里程计)](#64)|
 |[57.Federated Learning(联邦学习)](#57)|[58.HOI(人物交互)](#58)|[59.Meta learning(元学习)](#59)|[60.Image-to-Image Translation(图像-图像翻译)](#60)|
 |[53.Gaze Estimation(视线估计)](#53)|[54.Optical Flow(光流)](#54)|[55.Clustering(聚类)](#55)|[56.Vision-Language(视觉语言)](#56)|
-|[49.Neural Radiance(渲染)(#49)|[50.Contrastive Learning(对比学习)](#50)|[51.SGG(场景图生成)](#51)|[52.Human Motion Prediction(人类运动预测)](#52)|
+|[49.Neural Radiance(渲染)](#49)|[50.Contrastive Learning(对比学习)](#50)|[51.SGG(场景图生成)](#51)|[52.Human Motion Prediction(人类运动预测)](#52)|
 |[45.Class-Incremental Learning(类增量学习)](#45)|[46.Metric Learning(度量学习)](#46)|[47.Data Augmentation(数据增强)](#47)|[48.Light Fields(光场)](#48)|
 |[41.Action Generation(动作生成)](#41)|[42.Landmark Detection(关键点检测)](#42)|[43.Active Learning(主动学习)](#43)|[44.Multi-Task Learning(多任务学习)](#44)|
 |[37.OT(目标跟踪)](#37)|[38.Sound(音频处理)](#38)|[39.Style Transfer(风格迁移)](#39)|[40.AD(异常检测)](#40)|
