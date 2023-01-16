@@ -30,14 +30,17 @@
 
 |:dog:|:mouse:|:hamster:|:tiger:|
 |---------|---------|---------|---------|
-|[53.Gaze Estimation(视线估计)](#53)|[54.Optical Flow(光流)](#54)|[55.Object Counting(物体计数)](#55)|
-|[49.Debiasing(去偏见)](#49)|[50.Sign Language Translation(手语翻译)](#50)|[51.SSC(语义场景完成)](#51)|[52.Eye Tracking(眼动跟踪)](#52)|
+|[65.Open Set Recognition(开集识别)](#65)|[66.Scene Flow Estimation(场景流估计)](#66)|[67.Sketches(草图识别)](#67)|
+|[61.geo-localization(城市地理定位)](#61)|[62.Dense Prediction(密集预测)](#62)|[63.Place Recognition(位置识别)](#63)|[64.Visual Odometry(视觉里程计)](#64)|
+|[57.Federated Learning(联邦学习)](#57)|[58.HOI(人物交互)](#58)|[59.Meta learning(元学习)](#59)|[60.Image-to-Image Translation(图像-图像翻译)](#60)|
+|[53.Gaze Estimation(视线估计)](#53)|[54.Optical Flow(光流)](#54)|[55.Clustering(聚类)](#55)|[56.Vision-Language(视觉语言)](#56)|
+|[49.Neural Radiance(渲染)(#49)|[50.Contrastive Learning(对比学习)](#50)|[51.SGG(场景图生成)](#51)|[52.Human Motion Prediction(人类运动预测)](#52)|
 |[45.Class-Incremental Learning(类增量学习)](#45)|[46.Metric Learning(度量学习)](#46)|[47.Data Augmentation(数据增强)](#47)|[48.Light Fields(光场)](#48)|
 |[41.Action Generation(动作生成)](#41)|[42.Landmark Detection(关键点检测)](#42)|[43.Active Learning(主动学习)](#43)|[44.Multi-Task Learning(多任务学习)](#44)|
 |[37.OT(目标跟踪)](#37)|[38.Sound(音频处理)](#38)|[39.Style Transfer(风格迁移)](#39)|[40.AD(异常检测)](#40)|
 |[33.View Synthesis(视图合成)](#33)|[34.SLAM\Robots](#34)|[35.VQA(视觉问答)](#35)|[36.Soft Biometrics(软生物技术)](#36)|
 |[29.Image Classification(图像分类)](#29)|[30.RL(强化学习)](#30)|[31.Deepfake Detection(假象检测)](#31)|[32.Continual Learning(持续学习)](#32)|
-|[25.Image Captioning(图像字幕)](#25)|[26.Dataset(数据集)](#26)|[27.Defect Detection(缺陷检测)](#27)|[28.OPE(物体姿态估计)](#28)|
+|[25.Image Captioning(图像字幕)](#25)|[26.Dataset(数据集)](#26)|[27.Person ReID(人员重识别)](#27)|[28.OPE(物体姿态估计)](#28)|
 |[21.PC(点云)](#21)|[22.HAR(人体动作识别与检测)](#22)|[23.AD(智能驾驶)](#23)|[24.Image Retrieval(图像检索)](#24)|
 |[17.OCR(文本检测)](#17)|[18.NAS(神经架构搜索)](#18)|[19.MC\KD\Pruning(模型压缩\知识蒸馏\剪枝)](#19)|[20.Transformer](#20)|
 |[13.Image Segmentation(图像分割)](#13)|[14.SSL(半监督学习)](#14)|[15.Image Synthesis(图像合成)](#15)|[16.SR(超分辨率)](#16)|
@@ -46,104 +49,70 @@
 |[1.其它](#1)|[2.Medical Image(医学影像)](#2)|[3.3D(三维视觉)](#3)|[4.GAN(生成对抗网络)](#4)|
 
 
-## Sketches
+<a name="67"/>
+
+## 67.Sketches(草图识别)
 * [WHFL: Wavelet-Domain High Frequency Loss for Sketch-to-Image Translation](https://openaccess.thecvf.com/content/WACV2023/papers/Kim_WHFL_Wavelet-Domain_High_Frequency_Loss_for_Sketch-to-Image_Translation_WACV_2023_paper.pdf)
-## Scene Flow Estimation
+
+<a name="66"/>
+
+## 66.Scene Flow Estimation(场景流估计)
 * [M-FUSE: Multi-frame Fusion for Scene Flow Estimation](https://openaccess.thecvf.com/content/WACV2023/papers/Mehl_M-FUSE_Multi-Frame_Fusion_for_Scene_Flow_Estimation_WACV_2023_paper.pdf)<br>:star:[code](https://github.com/cv-stuttgart/M-FUSE)
 
-## Open Set Recognition
+<a name="65"/>
+
+## 65.Open Set Recognition(开集识别)
 * [Ancestor Search: Generalized Open Set Recognition via Hyperbolic Side Information Learning](https://openaccess.thecvf.com/content/WACV2023/papers/Dengxiong_Ancestor_Search_Generalized_Open_Set_Recognition_via_Hyperbolic_Side_Information_WACV_2023_paper.pdf)
-## Visual Odometry(视觉里程计)
+
+<a name="64"/>
+
+## 64.Visual Odometry(视觉里程计)
 * [Pixel-Wise Prediction Based Visual Odometry via Uncertainty Estimation](https://openaccess.thecvf.com/content/WACV2023/papers/Chen_Pixel-Wise_Prediction_Based_Visual_Odometry_via_Uncertainty_Estimation_WACV_2023_paper.pdf)
 
-## object re-identification
-* [Bent & Broken Bicycles: Leveraging synthetic data for damaged object re-identification](https://openaccess.thecvf.com/content/WACV2023/papers/Piano_Bent__Broken_Bicycles_Leveraging_Synthetic_Data_for_Damaged_Object_WACV_2023_paper.pdf)<br>:house:[project](https://tinyurl.com/37tepf7m)
+<a name="63"/>
 
-## Clustering
-* [Self-Supervised Clustering based on Manifold Learning and Graph Convolutional Networks](https://openaccess.thecvf.com/content/WACV2023/papers/Lopes_Self-Supervised_Clustering_Based_on_Manifold_Learning_and_Graph_Convolutional_Networks_WACV_2023_paper.pdf)<br>:star:[code](https://github.com/lopes-leonardo/sgcc)
-
-## 合成说话头
-* 唇语阅读
-  * [Towards MOOCs for Lipreading: Using Synthetic Talking Heads to Train Humans in Lipreading at Scale](https://openaccess.thecvf.com/content/WACV2023/papers/Agarwal_Towards_MOOCs_for_Lipreading_Using_Synthetic_Talking_Heads_To_Train_WACV_2023_paper.pdf)
-
-## Place Recognition(位置识别)
+## 63.Place Recognition(位置识别)
 * [ETR: An Efficient Transformer for Re-ranking in Visual Place Recognition](https://openaccess.thecvf.com/content/WACV2023/papers/Zhang_ETR_An_Efficient_Transformer_for_Re-Ranking_in_Visual_Place_Recognition_WACV_2023_paper.pdf)
 * [MixVPR: Feature Mixing for Visual Place Recognition](https://openaccess.thecvf.com/content/WACV2023/papers/Ali-bey_MixVPR_Feature_Mixing_for_Visual_Place_Recognition_WACV_2023_paper.pdf)
-## Dense Prediction
-* [Dense Prediction With Attentive Feature Aggregation](https://openaccess.thecvf.com/content/WACV2023/papers/Yang_Dense_Prediction_With_Attentive_Feature_Aggregation_WACV_2023_paper.pdf)
-## Neural Radiance(渲染)
-* [Ev-NeRF: Event Based Neural Radiance Field](https://openaccess.thecvf.com/content/WACV2023/papers/Li_Jointly_Learning_Band_Selection_and_Filter_Array_Design_for_Hyperspectral_WACV_2023_paper.pdf)
-* [DDNeRF: Depth Distribution Neural Radiance Fields](https://openaccess.thecvf.com/content/WACV2023/papers/Dadon_DDNeRF_Depth_Distribution_Neural_Radiance_Fields_WACV_2023_paper.pdf)
-* [X-NeRF: Explicit Neural Radiance Field for Multi-Scene 360deg Insufficient RGB-D Views](https://openaccess.thecvf.com/content/WACV2023/papers/Zhu_X-NeRF_Explicit_Neural_Radiance_Field_for_Multi-Scene_360deg_Insufficient_RGB-D_WACV_2023_paper.pdf)<br>:star:[code](https://github.com/HaoyiZhu/XNeRF)
-* [Fast Differentiable Transient Rendering for Non-Line-of-Sight Reconstruction](https://openaccess.thecvf.com/content/WACV2023/papers/Plack_Fast_Differentiable_Transient_Rendering_for_Non-Line-of-Sight_Reconstruction_WACV_2023_paper.pdf)<br>:star:[code](https://github.com/unlikelymaths/totrilib)
-* [Compressing Explicit Voxel Grid Representations: fast NeRFs become also small](https://openaccess.thecvf.com/content/WACV2023/papers/Deng_Compressing_Explicit_Voxel_Grid_Representations_Fast_NeRFs_Become_Also_Small_WACV_2023_paper.pdf)
-* [Control-NeRF: Editable Feature Volumes for Scene Rendering and Manipulation](https://openaccess.thecvf.com/content/WACV2023/papers/Lazova_Control-NeRF_Editable_Feature_Volumes_for_Scene_Rendering_and_Manipulation_WACV_2023_paper.pdf)<br>:house:[project](https://virtualhumans.mpi-inf.mpg.de/control-nerf/)
-* [Beyond RGB: Scene-Property Synthesis with Neural Radiance Fields](https://openaccess.thecvf.com/content/WACV2023/papers/Zhang_Beyond_RGB_Scene-Property_Synthesis_With_Neural_Radiance_Fields_WACV_2023_paper.pdf)<br>:star:[code](https://github.com/zsh2000/SS-NeRF)
 
-##  geo-localization(城市地理定位)
+<a name="62"/>
+
+## 62.Dense Prediction(密集预测)
+* [Dense Prediction With Attentive Feature Aggregation](https://openaccess.thecvf.com/content/WACV2023/papers/Yang_Dense_Prediction_With_Attentive_Feature_Aggregation_WACV_2023_paper.pdf)
+
+<a name="61"/>
+
+## 61.geo-localization(城市地理定位)
 * [TransVLAD: Multi-Scale Attention-Based Global Descriptors for Visual Geo-Localization](https://openaccess.thecvf.com/content/WACV2023/papers/Xu_TransVLAD_Multi-Scale_Attention-Based_Global_Descriptors_for_Visual_Geo-Localization_WACV_2023_paper.pdf)<br>:star:[code](https://github.com/wacv-23/TVLAD)
 
-## Image-to-Image Translation(图像-图像翻译)
+<a name="60"/>
+
+## 60.Image-to-Image Translation(图像-图像翻译)
 * [Panoptic-Aware Image-to-Image Translation](https://openaccess.thecvf.com/content/WACV2023/papers/Zhang_Panoptic-Aware_Image-to-Image_Translation_WACV_2023_paper.pdf)
 * 图像翻译
   * [RIFT: Disentangled Unsupervised Image Translation via Restricted Information Flow](https://openaccess.thecvf.com/content/WACV2023/papers/Usman_RIFT_Disentangled_Unsupervised_Image_Translation_via_Restricted_Information_Flow_WACV_2023_paper.pdf)
 * 域到域翻译
   * [Learning Style Subspaces for Controllable Unpaired Domain Translation](https://openaccess.thecvf.com/content/WACV2023/papers/Bhatt_Learning_Style_Subspaces_for_Controllable_Unpaired_Domain_Translation_WACV_2023_paper.pdf)<br>:star:[code](https://github.com/GauravBh1010tt/Controllable-Domain-Translation)
 
-## Human Motion Prediction(人类运动预测)
-* [Multi-view Tracking Using Weakly Supervised Human Motion Prediction](https://arxiv.org/abs/2210.10771)<br>:star:[code](https://github.com/cvlab-epfl/MVFlow)
-* [Anticipative Feature Fusion Transformer for Multi-Modal Action Anticipation](https://arxiv.org/abs/2210.12649)<br>:star:[code](https://github.com/zeyun-zhong/AFFT)
-* [GliTr: Glimpse Transformers with Spatiotemporal Consistency for Online Action Prediction](https://arxiv.org/abs/2210.13605)
-* [Back to MLP: A Simple Baseline for Human Motion Prediction](https://openaccess.thecvf.com/content/WACV2023/papers/Guo_Back_to_MLP_A_Simple_Baseline_for_Human_Motion_Prediction_WACV_2023_paper.pdf)<br>:star:[code](https://github.com/dulucas/siMLPe)
-* [Intention-Conditioned Long-Term Human Egocentric Action Anticipation](https://openaccess.thecvf.com/content/WACV2023/papers/Mascaro_Intention-Conditioned_Long-Term_Human_Egocentric_Action_Anticipation_WACV_2023_paper.pdf)
-* 行人轨迹预测
-  * [Online Adaptive Temporal Memory with Certainty Estimation for Human Trajectory Prediction](https://openaccess.thecvf.com/content/WACV2023/papers/Huynh_Online_Adaptive_Temporal_Memory_With_Certainty_Estimation_for_Human_Trajectory_WACV_2023_paper.pdf)
+<a name="59"/>
 
-## Scene Graph Generation(场景图生成)
-* [Grounding Scene Graphs on Natural Images via Visio-Lingual Message Passing](https://arxiv.org/abs/2211.01969)<br>:star:[code](https://github.com/IISCAditayTripathi/Scene-graph-localization):house:[project](https://iiscaditaytripathi.github.io/sgl/)
-* [Improving Predicate Representation in Scene Graph Generation by Self-Supervised Learning](https://openaccess.thecvf.com/content/WACV2023/papers/Hasegawa_Improving_Predicate_Representation_in_Scene_Graph_Generation_by_Self-Supervised_Learning_WACV_2023_paper.pdf)
-* [More Knowledge, Less Bias: Unbiasing Scene Graph Generation with Explicit Ontological Adjustment](https://openaccess.thecvf.com/content/WACV2023/papers/Chen_More_Knowledge_Less_Bias_Unbiasing_Scene_Graph_Generation_With_Explicit_WACV_2023_paper.pdf)<br>:star:[code](https://github.com/zhanwenchen/eoa)
-* [Composite Relationship Fields with Transformers for Scene Graph Generation](https://openaccess.thecvf.com/content/WACV2023/papers/Adaimi_Composite_Relationship_Fields_With_Transformers_for_Scene_Graph_Generation_WACV_2023_paper.pdf)<br>:star:[code](https://github.com/vita-epfl/SGG-CoRF)
-
-## Contrastive Learning(对比学习)
-* [Similarity Contrastive Estimation for Self-Supervised Soft Contrastive Learning](https://openaccess.thecvf.com/content/WACV2023/papers/Denize_Similarity_Contrastive_Estimation_for_Self-Supervised_Soft_Contrastive_Learning_WACV_2023_paper.pdf)<br>:star:[code](https://github.com/CEA-LIST/SCE)
-* [Representation Disentanglement in Generative Models with Contrastive Learning](https://openaccess.thecvf.com/content/WACV2023/papers/Mo_Representation_Disentanglement_in_Generative_Models_With_Contrastive_Learning_WACV_2023_paper.pdf)
-* [Addressing Feature Suppression in Unsupervised Visual Representations](https://openaccess.thecvf.com/content/WACV2023/papers/Li_Addressing_Feature_Suppression_in_Unsupervised_Visual_Representations_WACV_2023_paper.pdf)
-* [Ego-Vehicle Action Recognition based on Semi-Supervised Contrastive Learning](https://openaccess.thecvf.com/content/WACV2023/papers/Noguchi_Ego-Vehicle_Action_Recognition_Based_on_Semi-Supervised_Contrastive_Learning_WACV_2023_paper.pdf)
-
-## Meta learning
+## 59.Meta learning(元学习)
 * [Meta-OLE: Meta-learned Orthogonal Low-Rank Embedding](https://openaccess.thecvf.com/content/WACV2023/papers/Wang_Meta-OLE_Meta-Learned_Orthogonal_Low-Rank_Embedding_WACV_2023_paper.pdf)
 
-## Human Object Interaction(人物交互)
+<a name="58"/>
+
+## 58.Human Object Interaction(人物交互)
 * [Skew-Robust Human-Object Interactions in Videos](https://openaccess.thecvf.com/content/WACV2023/papers/Agarwal_Skew-Robust_Human-Object_Interactions_in_Videos_WACV_2023_paper.pdf)
 * 手物交互  
   * [Fine-grained Affordance Annotation for Egocentric Hand-Object Interaction Videos](https://openaccess.thecvf.com/content/WACV2023/papers/Yu_Fine-Grained_Affordance_Annotation_for_Egocentric_Hand-Object_Interaction_Videos_WACV_2023_paper.pdf)
 
-## Person ReID
-* 行人分析
-  * [Towards A Framework for Privacy-Preserving Pedestrian Analysis](https://openaccess.thecvf.com/content/WACV2023/papers/Kunchala_Towards_a_Framework_for_Privacy-Preserving_Pedestrian_Analysis_WACV_2023_paper.pdf)
-* 行人搜索
-  * [Gallery Filter Network for Person Search](https://arxiv.org/abs/2210.12903)<br>:star:[code](https://github.com/LukeJaffe/GFN)
-  * [UPAR: Unified Pedestrian Attribute Recognition and Person Retrieval](https://openaccess.thecvf.com/content/WACV2023/papers/Specker_UPAR_Unified_Pedestrian_Attribute_Recognition_and_Person_Retrieval_WACV_2023_paper.pdf)<br>:star:[code](https://github.com/speckean/upar_dataset)
-  * [SAT: Scale-Augmented Transformer for Person Search](https://openaccess.thecvf.com/content/WACV2023/papers/Fiaz_SAT_Scale-Augmented_Transformer_for_Person_Search_WACV_2023_paper.pdf)
-* Re-id
-  * [Camera Alignment and Weighted Contrastive Learning for Domain Adaptation in Video Person ReID](https://arxiv.org/abs/2211.03626)<br>:star:[code](https://github.com/dmekhazni/CAWCL-ReID)
-  * [MEVID: Multi-view Extended Videos with Identities for Video Person Re-Identification](https://arxiv.org/abs/2211.04656)<br>:star:[code](https://github.com/Kitware/MEVID)
-  * [Feature Disentanglement Learning with Switching and Aggregation for Video-based Person Re-Identification](https://arxiv.org/abs/2212.09498)
-  * [Graph-Based Self-Learning for Robust Person Re-Identification](https://openaccess.thecvf.com/content/WACV2023/papers/Xian_Graph-Based_Self-Learning_for_Robust_Person_Re-Identification_WACV_2023_paper.pdf)
-  * [Body Part-Based Representation Learning for Occluded Person Re-Identification](https://openaccess.thecvf.com/content/WACV2023/papers/Somers_Body_Part-Based_Representation_Learning_for_Occluded_Person_Re-Identification_WACV_2023_paper.pdf)<br>:star:[code](https://github.com/VlSomers/bpbreid)
-* 步态识别
-  * [Gait Recognition Using 3-D Human Body Shape Inference](https://arxiv.org/abs/2212.09042)
-* 步态迁移
-  * [CTrGAN: Cycle Transformers GAN for Gait Transfer](https://openaccess.thecvf.com/content/WACV2023/papers/Mahpod_CTrGAN_Cycle_Transformers_GAN_for_Gait_Transfer_WACV_2023_paper.pdf)
-* 嫌疑人识别
-  * [A Suspect Identification Framework using Contrastive Relevance Feedback](https://cdn.iiit.ac.in/cdn/precog.iiit.ac.in/pubs/WACV_2023_FaIRCoP_Camera_Ready.pdf)
-* 人群计数
-  * [Dynamic Mixture of Counter Network for Location-Agnostic Crowd Counting](https://openaccess.thecvf.com/content/WACV2023/papers/Wang_Dynamic_Mixture_of_Counter_Network_for_Location-Agnostic_Crowd_Counting_WACV_2023_paper.pdf)
+<a name="57"/>
 
 ## 57.Federated Learning(联邦学习)
 * [Learning Across Domains and Devices: Style-Driven Source-Free Domain Adaptation in Clustered Federated Learning](https://arxiv.org/abs/2210.02326)<br>:star:[code](https://github.com/Erosinho13/LADD)
 * [Federated Learning for Commercial Image Sources](https://openaccess.thecvf.com/content/WACV2023/papers/Jain_Federated_Learning_for_Commercial_Image_Sources_WACV_2023_paper.pdf)
+
+<a name="56"/>
 
 ## 56.Vision-Language(视觉语言)
 * [VL-Taboo: An Analysis of Attribute-based Zero-shot Capabilities of Vision-Language Models](https://arxiv.org/abs/2209.06103)<br>:star:[code](https://github.com/felixVogel02/VL-Taboo/tree/main)
@@ -156,8 +125,9 @@
 
 <a name="55"/>
 
-## 55.Object Counting(物体计数)
-* [Few-shot Object Counting with Similarity-Aware Feature Enhancement](https://openaccess.thecvf.com/content/WACV2023/papers/You_Few-Shot_Object_Counting_With_Similarity-Aware_Feature_Enhancement_WACV_2023_paper.pdf)<br>:star:[code](https://github.com/zhiyuanyou/SAFECount)
+## 55.Clustering(聚类)
+* [Self-Supervised Clustering based on Manifold Learning and Graph Convolutional Networks](https://openaccess.thecvf.com/content/WACV2023/papers/Lopes_Self-Supervised_Clustering_Based_on_Manifold_Learning_and_Graph_Convolutional_Networks_WACV_2023_paper.pdf)<br>:star:[code](https://github.com/lopes-leonardo/sgcc)
+
 
 <a name="54"/>
 
@@ -185,19 +155,41 @@
 
 <a name="52"/>
 
-## 52.Eye Tracking(眼动跟踪)
+## 52.Human Motion Prediction(人类运动预测)
+* [Multi-view Tracking Using Weakly Supervised Human Motion Prediction](https://arxiv.org/abs/2210.10771)<br>:star:[code](https://github.com/cvlab-epfl/MVFlow)
+* [Anticipative Feature Fusion Transformer for Multi-Modal Action Anticipation](https://arxiv.org/abs/2210.12649)<br>:star:[code](https://github.com/zeyun-zhong/AFFT)
+* [GliTr: Glimpse Transformers with Spatiotemporal Consistency for Online Action Prediction](https://arxiv.org/abs/2210.13605)
+* [Back to MLP: A Simple Baseline for Human Motion Prediction](https://openaccess.thecvf.com/content/WACV2023/papers/Guo_Back_to_MLP_A_Simple_Baseline_for_Human_Motion_Prediction_WACV_2023_paper.pdf)<br>:star:[code](https://github.com/dulucas/siMLPe)
+* [Intention-Conditioned Long-Term Human Egocentric Action Anticipation](https://openaccess.thecvf.com/content/WACV2023/papers/Mascaro_Intention-Conditioned_Long-Term_Human_Egocentric_Action_Anticipation_WACV_2023_paper.pdf)
+* 行人轨迹预测
+  * [Online Adaptive Temporal Memory with Certainty Estimation for Human Trajectory Prediction](https://openaccess.thecvf.com/content/WACV2023/papers/Huynh_Online_Adaptive_Temporal_Memory_With_Certainty_Estimation_for_Human_Trajectory_WACV_2023_paper.pdf)
 
 <a name="51"/>
 
-## 51.Semantic Scene Completion(语义场景完成SSC)
+## 51.Scene Graph Generation(场景图生成)
+* [Grounding Scene Graphs on Natural Images via Visio-Lingual Message Passing](https://arxiv.org/abs/2211.01969)<br>:star:[code](https://github.com/IISCAditayTripathi/Scene-graph-localization):house:[project](https://iiscaditaytripathi.github.io/sgl/)
+* [Improving Predicate Representation in Scene Graph Generation by Self-Supervised Learning](https://openaccess.thecvf.com/content/WACV2023/papers/Hasegawa_Improving_Predicate_Representation_in_Scene_Graph_Generation_by_Self-Supervised_Learning_WACV_2023_paper.pdf)
+* [More Knowledge, Less Bias: Unbiasing Scene Graph Generation with Explicit Ontological Adjustment](https://openaccess.thecvf.com/content/WACV2023/papers/Chen_More_Knowledge_Less_Bias_Unbiasing_Scene_Graph_Generation_With_Explicit_WACV_2023_paper.pdf)<br>:star:[code](https://github.com/zhanwenchen/eoa)
+* [Composite Relationship Fields with Transformers for Scene Graph Generation](https://openaccess.thecvf.com/content/WACV2023/papers/Adaimi_Composite_Relationship_Fields_With_Transformers_for_Scene_Graph_Generation_WACV_2023_paper.pdf)<br>:star:[code](https://github.com/vita-epfl/SGG-CoRF)
 
 <a name="50"/>
 
-## 50.Sign Language Translation(手语翻译)
+## 50.Contrastive Learning(对比学习)
+* [Similarity Contrastive Estimation for Self-Supervised Soft Contrastive Learning](https://openaccess.thecvf.com/content/WACV2023/papers/Denize_Similarity_Contrastive_Estimation_for_Self-Supervised_Soft_Contrastive_Learning_WACV_2023_paper.pdf)<br>:star:[code](https://github.com/CEA-LIST/SCE)
+* [Representation Disentanglement in Generative Models with Contrastive Learning](https://openaccess.thecvf.com/content/WACV2023/papers/Mo_Representation_Disentanglement_in_Generative_Models_With_Contrastive_Learning_WACV_2023_paper.pdf)
+* [Addressing Feature Suppression in Unsupervised Visual Representations](https://openaccess.thecvf.com/content/WACV2023/papers/Li_Addressing_Feature_Suppression_in_Unsupervised_Visual_Representations_WACV_2023_paper.pdf)
+* [Ego-Vehicle Action Recognition based on Semi-Supervised Contrastive Learning](https://openaccess.thecvf.com/content/WACV2023/papers/Noguchi_Ego-Vehicle_Action_Recognition_Based_on_Semi-Supervised_Contrastive_Learning_WACV_2023_paper.pdf)
 
 <a name="49"/>
 
-## 49.Debiasing(去偏见)
+## 49.Neural Radiance(渲染)
+* [Ev-NeRF: Event Based Neural Radiance Field](https://openaccess.thecvf.com/content/WACV2023/papers/Li_Jointly_Learning_Band_Selection_and_Filter_Array_Design_for_Hyperspectral_WACV_2023_paper.pdf)
+* [DDNeRF: Depth Distribution Neural Radiance Fields](https://openaccess.thecvf.com/content/WACV2023/papers/Dadon_DDNeRF_Depth_Distribution_Neural_Radiance_Fields_WACV_2023_paper.pdf)
+* [X-NeRF: Explicit Neural Radiance Field for Multi-Scene 360deg Insufficient RGB-D Views](https://openaccess.thecvf.com/content/WACV2023/papers/Zhu_X-NeRF_Explicit_Neural_Radiance_Field_for_Multi-Scene_360deg_Insufficient_RGB-D_WACV_2023_paper.pdf)<br>:star:[code](https://github.com/HaoyiZhu/XNeRF)
+* [Fast Differentiable Transient Rendering for Non-Line-of-Sight Reconstruction](https://openaccess.thecvf.com/content/WACV2023/papers/Plack_Fast_Differentiable_Transient_Rendering_for_Non-Line-of-Sight_Reconstruction_WACV_2023_paper.pdf)<br>:star:[code](https://github.com/unlikelymaths/totrilib)
+* [Compressing Explicit Voxel Grid Representations: fast NeRFs become also small](https://openaccess.thecvf.com/content/WACV2023/papers/Deng_Compressing_Explicit_Voxel_Grid_Representations_Fast_NeRFs_Become_Also_Small_WACV_2023_paper.pdf)
+* [Control-NeRF: Editable Feature Volumes for Scene Rendering and Manipulation](https://openaccess.thecvf.com/content/WACV2023/papers/Lazova_Control-NeRF_Editable_Feature_Volumes_for_Scene_Rendering_and_Manipulation_WACV_2023_paper.pdf)<br>:house:[project](https://virtualhumans.mpi-inf.mpg.de/control-nerf/)
+* [Beyond RGB: Scene-Property Synthesis with Neural Radiance Fields](https://openaccess.thecvf.com/content/WACV2023/papers/Zhang_Beyond_RGB_Scene-Property_Synthesis_With_Neural_Radiance_Fields_WACV_2023_paper.pdf)<br>:star:[code](https://github.com/zsh2000/SS-NeRF)
 
 <a name="48"/>
 
@@ -393,10 +385,34 @@
 * 6D
   * [CRT-6D: Fast 6D Object Pose Estimation with Cascaded Refinement Transformers](https://arxiv.org/abs/2210.11718)<br>:star:[code](https://github.com/PedroCastro/CRT-6D)
   * [SD-Pose: Structural Discrepancy Aware Category-Level 6D Object Pose Estimation](https://openaccess.thecvf.com/content/WACV2023/papers/Li_SD-Pose_Structural_Discrepancy_Aware_Category-Level_6D_Object_Pose_Estimation_WACV_2023_paper.pdf)
+* 物体计数
+  * [Few-shot Object Counting with Similarity-Aware Feature Enhancement](https://openaccess.thecvf.com/content/WACV2023/papers/You_Few-Shot_Object_Counting_With_Similarity-Aware_Feature_Enhancement_WACV_2023_paper.pdf)<br>:star:[code](https://github.com/zhiyuanyou/SAFECount)
+* 物体重识别
+  * [Bent & Broken Bicycles: Leveraging synthetic data for damaged object re-identification](https://openaccess.thecvf.com/content/WACV2023/papers/Piano_Bent__Broken_Bicycles_Leveraging_Synthetic_Data_for_Damaged_Object_WACV_2023_paper.pdf)<br>:house:[project](https://tinyurl.com/37tepf7m)
 
 <a name="27"/>
 
-## 27.Defect Detection(缺陷检测)
+## 27.Person ReID(人员重识别)
+* 行人分析
+  * [Towards A Framework for Privacy-Preserving Pedestrian Analysis](https://openaccess.thecvf.com/content/WACV2023/papers/Kunchala_Towards_a_Framework_for_Privacy-Preserving_Pedestrian_Analysis_WACV_2023_paper.pdf)
+* 行人搜索
+  * [Gallery Filter Network for Person Search](https://arxiv.org/abs/2210.12903)<br>:star:[code](https://github.com/LukeJaffe/GFN)
+  * [UPAR: Unified Pedestrian Attribute Recognition and Person Retrieval](https://openaccess.thecvf.com/content/WACV2023/papers/Specker_UPAR_Unified_Pedestrian_Attribute_Recognition_and_Person_Retrieval_WACV_2023_paper.pdf)<br>:star:[code](https://github.com/speckean/upar_dataset)
+  * [SAT: Scale-Augmented Transformer for Person Search](https://openaccess.thecvf.com/content/WACV2023/papers/Fiaz_SAT_Scale-Augmented_Transformer_for_Person_Search_WACV_2023_paper.pdf)
+* Re-id
+  * [Camera Alignment and Weighted Contrastive Learning for Domain Adaptation in Video Person ReID](https://arxiv.org/abs/2211.03626)<br>:star:[code](https://github.com/dmekhazni/CAWCL-ReID)
+  * [MEVID: Multi-view Extended Videos with Identities for Video Person Re-Identification](https://arxiv.org/abs/2211.04656)<br>:star:[code](https://github.com/Kitware/MEVID)
+  * [Feature Disentanglement Learning with Switching and Aggregation for Video-based Person Re-Identification](https://arxiv.org/abs/2212.09498)
+  * [Graph-Based Self-Learning for Robust Person Re-Identification](https://openaccess.thecvf.com/content/WACV2023/papers/Xian_Graph-Based_Self-Learning_for_Robust_Person_Re-Identification_WACV_2023_paper.pdf)
+  * [Body Part-Based Representation Learning for Occluded Person Re-Identification](https://openaccess.thecvf.com/content/WACV2023/papers/Somers_Body_Part-Based_Representation_Learning_for_Occluded_Person_Re-Identification_WACV_2023_paper.pdf)<br>:star:[code](https://github.com/VlSomers/bpbreid)
+* 步态识别
+  * [Gait Recognition Using 3-D Human Body Shape Inference](https://arxiv.org/abs/2212.09042)
+* 步态迁移
+  * [CTrGAN: Cycle Transformers GAN for Gait Transfer](https://openaccess.thecvf.com/content/WACV2023/papers/Mahpod_CTrGAN_Cycle_Transformers_GAN_for_Gait_Transfer_WACV_2023_paper.pdf)
+* 嫌疑人识别
+  * [A Suspect Identification Framework using Contrastive Relevance Feedback](https://cdn.iiit.ac.in/cdn/precog.iiit.ac.in/pubs/WACV_2023_FaIRCoP_Camera_Ready.pdf)
+* 人群计数
+  * [Dynamic Mixture of Counter Network for Location-Agnostic Crowd Counting](https://openaccess.thecvf.com/content/WACV2023/papers/Wang_Dynamic_Mixture_of_Counter_Network_for_Location-Agnostic_Crowd_Counting_WACV_2023_paper.pdf)
 
 <a name="26"/>
 
@@ -757,7 +773,8 @@
   * [Text and Image Guided 3D Avatar Generation and Manipulation](https://openaccess.thecvf.com/content/WACV2023/papers/Canfes_Text_and_Image_Guided_3D_Avatar_Generation_and_Manipulation_WACV_2023_paper.pdf) 
  * 说话人脸
    * [Towards Generating Ultra-High Resolution Talking-Face Videos with Lip synchronization](https://openaccess.thecvf.com/content/WACV2023/papers/Gupta_Towards_Generating_Ultra-High_Resolution_Talking-Face_Videos_With_Lip_Synchronization_WACV_2023_paper.pdf)
- 
+  * 唇语阅读
+    * [Towards MOOCs for Lipreading: Using Synthetic Talking Heads to Train Humans in Lipreading at Scale](https://openaccess.thecvf.com/content/WACV2023/papers/Agarwal_Towards_MOOCs_for_Lipreading_Using_Synthetic_Talking_Heads_To_Train_WACV_2023_paper.pdf)
  
 <a name="10"/>
 
